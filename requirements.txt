@@ -1,0 +1,24 @@
+# 데이터 수집
+pykrx>=1.0.45          # 한국 주식 시세·재무 데이터
+requests>=2.31.0       # HTTP 요청
+beautifulsoup4>=4.12.0 # HTML 파싱 (네이버 뉴스용)
+pandas>=2.0.0          # 데이터 처리
+pyyaml>=6.0            # config.yaml 읽기
+python-dotenv>=1.0.0   # .env 파일에서 API 키 읽기
+
+# AI 분석
+anthropic>=0.40.0      # Claude API
+
+# 한국어 처리
+python-dateutil>=2.8.2
+
+# 웹앱 UI
+streamlit>=1.32.0      # 3탭 UI (관심종목/주식뉴스/보관)
+
+# REST API 서버 (모바일 앱용)
+fastapi>=0.110.0       # API 서버 프레임워크
+uvicorn[standard]>=0.27.0  # ASGI 서버
+pydantic>=2.0.0        # 데이터 검증
+
+# 유튜브 자막 추출 (새 정보 입력 탭에서 사용)
+youtube-transcript-api>=0.6.2

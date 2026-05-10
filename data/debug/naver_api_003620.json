@@ -1,0 +1,463 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "003620",
+  "reutersCode": "003620",
+  "stockName": "KG모빌리티",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "4,305"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "-"
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "4,180",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "4,180",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "3,288"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "13백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "8,459억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "19.41%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "4,670"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "3,160"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "18.02배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "232원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "N/A"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "N/A"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "0.57배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "7,336원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "N/A"
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "N/A"
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "003620",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "+29,482",
+      "foreignerHoldRatio": "19.43%",
+      "organPureBuyQuant": "-49,754",
+      "individualPureBuyQuant": "+31,562",
+      "closePrice": "4,180",
+      "compareToPreviousClosePrice": "-125",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "3,288"
+    },
+    {
+      "itemCode": "003620",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "+96,422",
+      "foreignerHoldRatio": "19.41%",
+      "organPureBuyQuant": "-18,333",
+      "individualPureBuyQuant": "-85,647",
+      "closePrice": "4,305",
+      "compareToPreviousClosePrice": "-25",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "936,082"
+    },
+    {
+      "itemCode": "003620",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-164,545",
+      "foreignerHoldRatio": "19.37%",
+      "organPureBuyQuant": "+1,450",
+      "individualPureBuyQuant": "+188,723",
+      "closePrice": "4,330",
+      "compareToPreviousClosePrice": "-110",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,545,610"
+    },
+    {
+      "itemCode": "003620",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "+266,494",
+      "foreignerHoldRatio": "19.45%",
+      "organPureBuyQuant": "-5,330",
+      "individualPureBuyQuant": "-259,370",
+      "closePrice": "4,440",
+      "compareToPreviousClosePrice": "105",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "2,376,756"
+    },
+    {
+      "itemCode": "003620",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "-140,335",
+      "foreignerHoldRatio": "19.32%",
+      "organPureBuyQuant": "+1,304",
+      "individualPureBuyQuant": "+140,600",
+      "closePrice": "4,335",
+      "compareToPreviousClosePrice": "-85",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,055,074"
+    }
+  ],
+  "researches": [
+    {
+      "id": 92096,
+      "cd": "003620",
+      "nm": "KG모빌리티",
+      "bnm": "키움증권",
+      "tit": "픽업트럭 명가의 저력 증명",
+      "rcnt": "2511",
+      "wdt": "20260429"
+    },
+    {
+      "id": 92004,
+      "cd": "003620",
+      "nm": "KG모빌리티",
+      "bnm": "하나증권",
+      "tit": "하반기 해외 CKD 사업 본격화로 성장 모멘텀 확보",
+      "rcnt": "2921",
+      "wdt": "20260427"
+    },
+    {
+      "id": 90691,
+      "cd": "003620",
+      "nm": "KG모빌리티",
+      "bnm": "하나증권",
+      "tit": "2026년 및 중장기 사업계획 IR 핵심내용 정리",
+      "rcnt": "6336",
+      "wdt": "20260225"
+    },
+    {
+      "id": 89834,
+      "cd": "003620",
+      "nm": "KG모빌리티",
+      "bnm": "키움증권",
+      "tit": "사람은 서울, 말은 제주도, 자동차는 해외로",
+      "rcnt": "2902",
+      "wdt": "20260204"
+    }
+  ],
+  "industryCode": "273",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "005380",
+      "reutersCode": "005380",
+      "stockName": "현대차",
+      "sosok": "0",
+      "closePrice": "613,000",
+      "compareToPreviousClosePrice": "41,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "7.17",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "125,516,510",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/005380"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "000270",
+      "reutersCode": "000270",
+      "stockName": "기아",
+      "sosok": "0",
+      "closePrice": "164,500",
+      "compareToPreviousClosePrice": "6,900",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "4.38",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "64,222,938",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/000270"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "381970",
+      "reutersCode": "381970",
+      "stockName": "케이카",
+      "sosok": "0",
+      "closePrice": "10,330",
+      "compareToPreviousClosePrice": "50",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.49",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "504,319",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/381970"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "001390",
+      "reutersCode": "001390",
+      "stockName": "KG케미칼",
+      "sosok": "0",
+      "closePrice": "6,110",
+      "compareToPreviousClosePrice": "-30",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.49",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "410,793",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/001390"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "151860",
+      "reutersCode": "151860",
+      "stockName": "KG에코솔루션",
+      "sosok": "1",
+      "closePrice": "6,830",
+      "compareToPreviousClosePrice": "-240",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-3.39",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "325,128",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/151860"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "900140",
+      "reutersCode": "900140",
+      "stockName": "엘브이엠씨홀딩스",
+      "sosok": "0",
+      "closePrice": "1,658",
+      "compareToPreviousClosePrice": "-53",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-3.10",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "320,392",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/900140"
+    }
+  ],
+  "consensusInfo": null,
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": null
+}

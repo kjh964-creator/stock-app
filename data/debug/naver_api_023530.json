@@ -1,0 +1,490 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "023530",
+  "reutersCode": "023530",
+  "stockName": "롯데쇼핑",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "136,100"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "136,100",
+      "compareToPreviousPrice": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "140,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "132,100",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "196,732"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "26,959백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "3조 9,067억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "10.00%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "141,900"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "62,700"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "75.80배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "1,822원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "13.52배"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "10,216원"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "0.26배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "537,131원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "2.90%",
+      "valueDesc": "2026.03."
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "4,000원",
+      "valueDesc": "2026.03."
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "023530",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "-39,677",
+      "foreignerHoldRatio": "9.86%",
+      "organPureBuyQuant": "+52,772",
+      "individualPureBuyQuant": "-16,609",
+      "closePrice": "138,100",
+      "compareToPreviousClosePrice": "2,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "159,363"
+    },
+    {
+      "itemCode": "023530",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "-2,310",
+      "foreignerHoldRatio": "10.00%",
+      "organPureBuyQuant": "+40,676",
+      "individualPureBuyQuant": "-37,902",
+      "closePrice": "136,100",
+      "compareToPreviousClosePrice": "4,300",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "136,329"
+    },
+    {
+      "itemCode": "023530",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-27,335",
+      "foreignerHoldRatio": "9.95%",
+      "organPureBuyQuant": "+27,750",
+      "individualPureBuyQuant": "-2,916",
+      "closePrice": "131,800",
+      "compareToPreviousClosePrice": "-6,700",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "189,564"
+    },
+    {
+      "itemCode": "023530",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "-14,272",
+      "foreignerHoldRatio": "10.03%",
+      "organPureBuyQuant": "+38,677",
+      "individualPureBuyQuant": "-22,847",
+      "closePrice": "138,500",
+      "compareToPreviousClosePrice": "3,200",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "143,107"
+    },
+    {
+      "itemCode": "023530",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "+4,868",
+      "foreignerHoldRatio": "10.12%",
+      "organPureBuyQuant": "+26,065",
+      "individualPureBuyQuant": "-29,194",
+      "closePrice": "135,300",
+      "compareToPreviousClosePrice": "1,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "133,222"
+    }
+  ],
+  "researches": [
+    {
+      "id": 91601,
+      "cd": "023530",
+      "nm": "롯데쇼핑",
+      "bnm": "미래에셋증권",
+      "tit": "백화점 가치를 조명할 때",
+      "rcnt": "5050",
+      "wdt": "20260416"
+    },
+    {
+      "id": 91258,
+      "cd": "023530",
+      "nm": "롯데쇼핑",
+      "bnm": "대신증권",
+      "tit": "핵심 지역에 핵심 랜드마크 점포",
+      "rcnt": "4130",
+      "wdt": "20260406"
+    },
+    {
+      "id": 90959,
+      "cd": "023530",
+      "nm": "롯데쇼핑",
+      "bnm": "키움증권",
+      "tit": "백화점에서 확산되는 온기(溫氣)",
+      "rcnt": "7901",
+      "wdt": "20260318"
+    },
+    {
+      "id": 90194,
+      "cd": "023530",
+      "nm": "롯데쇼핑",
+      "bnm": "한화투자증권",
+      "tit": "4Q25 Review : 26년 비중확대는 필수",
+      "rcnt": "4982",
+      "wdt": "20260209"
+    },
+    {
+      "id": 90158,
+      "cd": "023530",
+      "nm": "롯데쇼핑",
+      "bnm": "대신증권",
+      "tit": "열일하는 백화점",
+      "rcnt": "3359",
+      "wdt": "20260209"
+    }
+  ],
+  "industryCode": "264",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "004170",
+      "reutersCode": "004170",
+      "stockName": "신세계",
+      "sosok": "0",
+      "closePrice": "428,500",
+      "compareToPreviousClosePrice": "-4,500",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-1.04",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "4,047,260",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/004170"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "139480",
+      "reutersCode": "139480",
+      "stockName": "이마트",
+      "sosok": "0",
+      "closePrice": "112,900",
+      "compareToPreviousClosePrice": "4,500",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "4.15",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "3,115,567",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/139480"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "008770",
+      "reutersCode": "008770",
+      "stockName": "호텔신라",
+      "sosok": "0",
+      "closePrice": "64,200",
+      "compareToPreviousClosePrice": "-1,500",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-2.28",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "2,519,729",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/008770"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "069960",
+      "reutersCode": "069960",
+      "stockName": "현대백화점",
+      "sosok": "0",
+      "closePrice": "112,100",
+      "compareToPreviousClosePrice": "-1,700",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-1.49",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "2,417,426",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/069960"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "282330",
+      "reutersCode": "282330",
+      "stockName": "BGF리테일",
+      "sosok": "0",
+      "closePrice": "138,600",
+      "compareToPreviousClosePrice": "4,700",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "3.51",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "2,395,549",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/282330"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "007070",
+      "reutersCode": "007070",
+      "stockName": "GS리테일",
+      "sosok": "0",
+      "closePrice": "25,800",
+      "compareToPreviousClosePrice": "2,250",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "9.55",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "2,157,071",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/007070"
+    }
+  ],
+  "consensusInfo": {
+    "itemCode": "023530",
+    "createDate": "2026-05-07",
+    "recommMean": "4.00",
+    "priceTargetMean": "143,000"
+  },
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": {
+    "itemCode": "023530",
+    "stockName": "롯데쇼핑",
+    "title": "2026년 1분기 경영실적 발표",
+    "irScheduleDate": "2026-05-11",
+    "irScheduleDday": 1
+  }
+}

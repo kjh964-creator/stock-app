@@ -1,0 +1,54 @@
+# 주식정보 앱 설정
+# 사용자가 자유롭게 수정 가능
+
+# Claude 모델 설정
+claude:
+  model: claude-haiku-4-5-20251001   # 일반 분석용 (저비용)
+  model_deep: claude-sonnet-4-6       # 심층 분석용 (경쟁사 비교 등)
+  max_tokens: 4096
+  temperature: 0.3                    # 일관된 분석을 위해 낮게
+
+# 분석 주기
+schedule:
+  daily_analysis_time: "18:30"        # 장 마감 후 자동 분석
+  news_check_interval_minutes: 10     # 뉴스 체크 주기
+  price_check_interval_minutes: 5     # 시세 체크 주기 (이벤트 감지용)
+
+# 이벤트 감지 임계값
+event_thresholds:
+  price_change_pct: 3.0               # ±3% 이상 움직이면 알림
+  volume_spike_multiplier: 3.0        # 평균 대비 3배 이상 거래량
+  news_keywords:                      # 이런 키워드 들어간 뉴스는 즉시 알림
+    - 인수
+    - 합병
+    - 투자
+    - 공급계약
+    - 실적
+    - 어닝쇼크
+    - 어닝서프라이즈
+    - 영업정지
+    - 횡령
+    - 배임
+
+# 분석 대상 그룹
+analysis_targets:
+  enabled_groups:
+    - 관심1
+    - 관심2
+    - 관심3
+    - 관심4
+    - 관심5
+
+# 출력 설정
+output:
+  report_dir: ./data/reports          # 분석 리포트 저장 위치
+  format: markdown                    # markdown, html, json
+
+# 뉴스 소스
+news_sources:
+  naver_news: true
+  dart_disclosure: true
+  youtube_channels:                   # 구독 채널 (영상 자막 자동 수집)
+    - "@슈카월드"
+    - "@삼프로TV"
+    - "@김작가TV"

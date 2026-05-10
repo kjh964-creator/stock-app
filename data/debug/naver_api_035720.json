@@ -1,0 +1,484 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "035720",
+  "reutersCode": "035720",
+  "stockName": "카카오",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "45,250"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "45,650",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "47,400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "45,050",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "5,820,347"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "269,931백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "20조 3,831억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "28.59%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "71,600"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "36,300"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "41.44배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "1,110원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "30.98배"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "1,485원"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "1.80배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "25,625원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "0.16%",
+      "valueDesc": "2026.03."
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "75원",
+      "valueDesc": "2026.03."
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "035720",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "-243,625",
+      "foreignerHoldRatio": "28.53%",
+      "organPureBuyQuant": "+215,908",
+      "individualPureBuyQuant": "+12,391",
+      "closePrice": "46,000",
+      "compareToPreviousClosePrice": "750",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "3,375,120"
+    },
+    {
+      "itemCode": "035720",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "-1,410,731",
+      "foreignerHoldRatio": "28.59%",
+      "organPureBuyQuant": "-283,174",
+      "individualPureBuyQuant": "+1,671,328",
+      "closePrice": "45,250",
+      "compareToPreviousClosePrice": "-1,050",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "3,342,858"
+    },
+    {
+      "itemCode": "035720",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-225,147",
+      "foreignerHoldRatio": "28.93%",
+      "organPureBuyQuant": "-350,964",
+      "individualPureBuyQuant": "+543,597",
+      "closePrice": "46,300",
+      "compareToPreviousClosePrice": "-800",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "2,392,733"
+    },
+    {
+      "itemCode": "035720",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "-419,418",
+      "foreignerHoldRatio": "28.98%",
+      "organPureBuyQuant": "+31,967",
+      "individualPureBuyQuant": "+382,503",
+      "closePrice": "47,100",
+      "compareToPreviousClosePrice": "-200",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,520,475"
+    },
+    {
+      "itemCode": "035720",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "-213,385",
+      "foreignerHoldRatio": "29.07%",
+      "organPureBuyQuant": "-204,671",
+      "individualPureBuyQuant": "+420,071",
+      "closePrice": "47,300",
+      "compareToPreviousClosePrice": "-1,100",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,484,406"
+    }
+  ],
+  "researches": [
+    {
+      "id": 92650,
+      "cd": "035720",
+      "nm": "카카오",
+      "bnm": "한화투자증권",
+      "tit": "비수기에도 확인한 이익 체력",
+      "rcnt": "4318",
+      "wdt": "20260508"
+    },
+    {
+      "id": 92637,
+      "cd": "035720",
+      "nm": "카카오",
+      "bnm": "교보증권",
+      "tit": "비핵심 사업 정리 + AI 도입 통한 톡비즈 매출 성장 제고",
+      "rcnt": "2495",
+      "wdt": "20260508"
+    },
+    {
+      "id": 92624,
+      "cd": "035720",
+      "nm": "카카오",
+      "bnm": "하나증권",
+      "tit": "하반기 AI 에이전트 대중화가 중요",
+      "rcnt": "2275",
+      "wdt": "20260508"
+    },
+    {
+      "id": 92610,
+      "cd": "035720",
+      "nm": "카카오",
+      "bnm": "유안타증권",
+      "tit": "숫자로 증명한 플랫폼 경쟁력",
+      "rcnt": "2102",
+      "wdt": "20260508"
+    },
+    {
+      "id": 92575,
+      "cd": "035720",
+      "nm": "카카오",
+      "bnm": "유진투자증권",
+      "tit": "유의미한 수익성 개선, AI 성과는 아직",
+      "rcnt": "2069",
+      "wdt": "20260508"
+    }
+  ],
+  "industryCode": "300",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "035420",
+      "reutersCode": "035420",
+      "stockName": "NAVER",
+      "sosok": "0",
+      "closePrice": "215,000",
+      "compareToPreviousClosePrice": "7,500",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "3.61",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "33,727,861",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/035420"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "376300",
+      "reutersCode": "376300",
+      "stockName": "디어유",
+      "sosok": "1",
+      "closePrice": "29,000",
+      "compareToPreviousClosePrice": "-50",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.17",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "688,413",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/376300"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "067160",
+      "reutersCode": "067160",
+      "stockName": "SOOP",
+      "sosok": "1",
+      "closePrice": "55,300",
+      "compareToPreviousClosePrice": "1,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "1.84",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "635,660",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/067160"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "300080",
+      "reutersCode": "300080",
+      "stockName": "플리토",
+      "sosok": "1",
+      "closePrice": "11,500",
+      "compareToPreviousClosePrice": "110",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.97",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "189,812",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/300080"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "408920",
+      "reutersCode": "408920",
+      "stockName": "메쎄이상",
+      "sosok": "1",
+      "closePrice": "3,685",
+      "compareToPreviousClosePrice": "110",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "3.08",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "159,311",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/408920"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "089230",
+      "reutersCode": "089230",
+      "stockName": "THE E&M",
+      "sosok": "1",
+      "closePrice": "4,150",
+      "compareToPreviousClosePrice": "-175",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-4.05",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "150,733",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/089230"
+    }
+  ],
+  "consensusInfo": {
+    "itemCode": "035720",
+    "createDate": "2026-05-07",
+    "recommMean": "4.00",
+    "priceTargetMean": "75,824"
+  },
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": null
+}

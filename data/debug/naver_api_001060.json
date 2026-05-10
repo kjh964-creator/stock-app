@@ -1,0 +1,433 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "001060",
+  "reutersCode": "001060",
+  "stockName": "JW중외제약",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "30,500"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "30,500",
+      "compareToPreviousPrice": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "30,900",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "30,200",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "57,892"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "1,761백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "7,091억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "7.91%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "39,950"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "15,250"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "12.33배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "2,470원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "N/A"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "N/A"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "1.99배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "15,290원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "2.14%",
+      "valueDesc": "2026.04."
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "650원",
+      "valueDesc": "2026.04."
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "001060",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "+3,421",
+      "foreignerHoldRatio": "7.92%",
+      "organPureBuyQuant": "+496",
+      "individualPureBuyQuant": "-7,742",
+      "closePrice": "30,450",
+      "compareToPreviousClosePrice": "-50",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "34,207"
+    },
+    {
+      "itemCode": "001060",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "+2,417",
+      "foreignerHoldRatio": "7.91%",
+      "organPureBuyQuant": "+625",
+      "individualPureBuyQuant": "-5,381",
+      "closePrice": "30,500",
+      "compareToPreviousClosePrice": "400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "47,197"
+    },
+    {
+      "itemCode": "001060",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-21,001",
+      "foreignerHoldRatio": "7.89%",
+      "organPureBuyQuant": "-7,462",
+      "individualPureBuyQuant": "+28,009",
+      "closePrice": "30,100",
+      "compareToPreviousClosePrice": "-600",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "76,658"
+    },
+    {
+      "itemCode": "001060",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "-3,578",
+      "foreignerHoldRatio": "8.00%",
+      "organPureBuyQuant": "-1,490",
+      "individualPureBuyQuant": "+3,641",
+      "closePrice": "30,700",
+      "compareToPreviousClosePrice": "-500",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "67,936"
+    },
+    {
+      "itemCode": "001060",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "-2,716",
+      "foreignerHoldRatio": "8.02%",
+      "organPureBuyQuant": "+410",
+      "individualPureBuyQuant": "+2,213",
+      "closePrice": "31,200",
+      "compareToPreviousClosePrice": "-900",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "49,129"
+    }
+  ],
+  "researches": [],
+  "industryCode": "261",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "207940",
+      "reutersCode": "207940",
+      "stockName": "삼성바이오로직스",
+      "sosok": "0",
+      "closePrice": "1,472,000",
+      "compareToPreviousClosePrice": "4,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.27",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "68,140,279",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/207940"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "068270",
+      "reutersCode": "068270",
+      "stockName": "셀트리온",
+      "sosok": "0",
+      "closePrice": "198,400",
+      "compareToPreviousClosePrice": "-4,100",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-2.02",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "44,032,550",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/068270"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "0126Z0",
+      "reutersCode": "0126Z0",
+      "stockName": "삼성에피스홀딩스",
+      "sosok": "0",
+      "closePrice": "530,000",
+      "compareToPreviousClosePrice": "4,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.76",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "13,188,015",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/0126Z0"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "000250",
+      "reutersCode": "000250",
+      "stockName": "삼천당제약",
+      "sosok": "1",
+      "closePrice": "404,000",
+      "compareToPreviousClosePrice": "4,500",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "1.13",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "9,476,818",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/000250"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "326030",
+      "reutersCode": "326030",
+      "stockName": "SK바이오팜",
+      "sosok": "0",
+      "closePrice": "99,400",
+      "compareToPreviousClosePrice": "-200",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.20",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "7,784,337",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/326030"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "141080",
+      "reutersCode": "141080",
+      "stockName": "리가켐바이오",
+      "sosok": "1",
+      "closePrice": "187,100",
+      "compareToPreviousClosePrice": "4,400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "2.41",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "6,926,333",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/141080"
+    }
+  ],
+  "consensusInfo": null,
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": null
+}

@@ -1,0 +1,488 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "096770",
+  "reutersCode": "096770",
+  "stockName": "SK이노베이션",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "137,800"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "138,400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "139,400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "134,000",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "1,091,824"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "147,936백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "22조 7,714억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "14.64%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "166,000"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "80,300"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "N/A",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "-21,056원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "11.35배"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "11,873원"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "1.04배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "129,847원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "N/A"
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "N/A"
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "096770",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "+57,358",
+      "foreignerHoldRatio": "14.67%",
+      "organPureBuyQuant": "+24,547",
+      "individualPureBuyQuant": "+110,166",
+      "closePrice": "134,700",
+      "compareToPreviousClosePrice": "-3,100",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "671,894"
+    },
+    {
+      "itemCode": "096770",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "+7,925",
+      "foreignerHoldRatio": "14.64%",
+      "organPureBuyQuant": "-106,504",
+      "individualPureBuyQuant": "+226,694",
+      "closePrice": "137,800",
+      "compareToPreviousClosePrice": "-8,900",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,021,138"
+    },
+    {
+      "itemCode": "096770",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-14,939",
+      "foreignerHoldRatio": "14.64%",
+      "organPureBuyQuant": "+30,264",
+      "individualPureBuyQuant": "+196,626",
+      "closePrice": "146,700",
+      "compareToPreviousClosePrice": "1,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "1,323,792"
+    },
+    {
+      "itemCode": "096770",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "-45,361",
+      "foreignerHoldRatio": "14.67%",
+      "organPureBuyQuant": "-85,859",
+      "individualPureBuyQuant": "+312,093",
+      "closePrice": "145,700",
+      "compareToPreviousClosePrice": "-500",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,202,954"
+    },
+    {
+      "itemCode": "096770",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "+158,308",
+      "foreignerHoldRatio": "14.73%",
+      "organPureBuyQuant": "+95,913",
+      "individualPureBuyQuant": "-47,921",
+      "closePrice": "146,200",
+      "compareToPreviousClosePrice": "-3,600",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "1,134,227"
+    }
+  ],
+  "researches": [
+    {
+      "id": 91203,
+      "cd": "096770",
+      "nm": "SK이노베이션",
+      "bnm": "유안타증권",
+      "tit": "호르무즈 봉쇄는 에너지 기업가치를 높인다!",
+      "rcnt": "18051",
+      "wdt": "20260402"
+    },
+    {
+      "id": 90637,
+      "cd": "096770",
+      "nm": "SK이노베이션",
+      "bnm": "하나증권",
+      "tit": "더 이상 정유 Up-Cycle에서 소외되지 않는다",
+      "rcnt": "20179",
+      "wdt": "20260223"
+    },
+    {
+      "id": 89784,
+      "cd": "096770",
+      "nm": "SK이노베이션",
+      "bnm": "하나증권",
+      "tit": "잊고 살았던 기름 냄새",
+      "rcnt": "13590",
+      "wdt": "20260202"
+    },
+    {
+      "id": 89615,
+      "cd": "096770",
+      "nm": "SK이노베이션",
+      "bnm": "한화투자증권",
+      "tit": "배터리 부진을 상쇄한 전통산업",
+      "rcnt": "9674",
+      "wdt": "20260129"
+    },
+    {
+      "id": 89603,
+      "cd": "096770",
+      "nm": "SK이노베이션",
+      "bnm": "하나증권",
+      "tit": "2026년 전사 실적 대폭 개선. 투자의견 상향",
+      "rcnt": "7785",
+      "wdt": "20260129"
+    }
+  ],
+  "industryCode": "313",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "034730",
+      "reutersCode": "034730",
+      "stockName": "SK",
+      "sosok": "0",
+      "closePrice": "550,000",
+      "compareToPreviousClosePrice": "7,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "1.29",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "39,876,486",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/034730"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "010950",
+      "reutersCode": "010950",
+      "stockName": "S-Oil",
+      "sosok": "0",
+      "closePrice": "116,800",
+      "compareToPreviousClosePrice": "-1,400",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-1.18",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "13,149,670",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/010950"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "078930",
+      "reutersCode": "078930",
+      "stockName": "GS",
+      "sosok": "0",
+      "closePrice": "79,400",
+      "compareToPreviousClosePrice": "800",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "1.02",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "7,377,481",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/078930"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "006120",
+      "reutersCode": "006120",
+      "stockName": "SK디스커버리",
+      "sosok": "0",
+      "closePrice": "59,100",
+      "compareToPreviousClosePrice": "-1,300",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-2.15",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "1,029,152",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/006120"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "0001A0",
+      "reutersCode": "0001A0",
+      "stockName": "덕양에너젠",
+      "sosok": "1",
+      "closePrice": "20,100",
+      "compareToPreviousClosePrice": "-400",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-1.95",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "498,303",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/0001A0"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "128820",
+      "reutersCode": "128820",
+      "stockName": "대성산업",
+      "sosok": "0",
+      "closePrice": "6,700",
+      "compareToPreviousClosePrice": "40",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.60",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "303,077",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/128820"
+    }
+  ],
+  "consensusInfo": {
+    "itemCode": "096770",
+    "createDate": "2026-05-07",
+    "recommMean": "3.86",
+    "priceTargetMean": "175,000"
+  },
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": {
+    "itemCode": "096770",
+    "stockName": "SK이노베이션",
+    "title": "2026년 1분기 경영실적",
+    "irScheduleDate": "2026-05-13",
+    "irScheduleDday": 3
+  }
+}

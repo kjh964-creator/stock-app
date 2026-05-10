@@ -1,0 +1,473 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "194480",
+  "reutersCode": "194480",
+  "stockName": "데브시스터즈",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "20,850"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "21,050",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "21,400",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "20,600",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "104,768"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "2,181백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "2,511억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "2.09%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "59,300"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "20,600"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "23.99배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "863원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "N/A"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "N/A"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "1.37배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "15,161원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "N/A"
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "N/A"
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "194480",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "-10,560",
+      "foreignerHoldRatio": "2.01%",
+      "organPureBuyQuant": "-3,873",
+      "individualPureBuyQuant": "+14,433",
+      "closePrice": "20,700",
+      "compareToPreviousClosePrice": "-150",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "47,395"
+    },
+    {
+      "itemCode": "194480",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "+3,743",
+      "foreignerHoldRatio": "2.09%",
+      "organPureBuyQuant": "-2,951",
+      "individualPureBuyQuant": "+2,783",
+      "closePrice": "20,850",
+      "compareToPreviousClosePrice": "-850",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "90,894"
+    },
+    {
+      "itemCode": "194480",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-6,696",
+      "foreignerHoldRatio": "2.06%",
+      "organPureBuyQuant": "-6,822",
+      "individualPureBuyQuant": "+19,055",
+      "closePrice": "21,700",
+      "compareToPreviousClosePrice": "-700",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "86,874"
+    },
+    {
+      "itemCode": "194480",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "-20,057",
+      "foreignerHoldRatio": "2.12%",
+      "organPureBuyQuant": "-4,922",
+      "individualPureBuyQuant": "+32,835",
+      "closePrice": "22,400",
+      "compareToPreviousClosePrice": "-250",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "66,042"
+    },
+    {
+      "itemCode": "194480",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "-42,118",
+      "foreignerHoldRatio": "2.30%",
+      "organPureBuyQuant": "-8,280",
+      "individualPureBuyQuant": "+50,376",
+      "closePrice": "22,650",
+      "compareToPreviousClosePrice": "-700",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "95,759"
+    }
+  ],
+  "researches": [
+    {
+      "id": 90279,
+      "cd": "194480",
+      "nm": "데브시스터즈",
+      "bnm": "DS투자증권",
+      "tit": "IP도 이제 기득권 시대, 수도권에 자가 보유 중",
+      "rcnt": "4739",
+      "wdt": "20260210"
+    },
+    {
+      "id": 89695,
+      "cd": "194480",
+      "nm": "데브시스터즈",
+      "bnm": "교보증권",
+      "tit": "높아진 IP 가치 기반의 신작 출시 기대",
+      "rcnt": "2796",
+      "wdt": "20260130"
+    },
+    {
+      "id": 89390,
+      "cd": "194480",
+      "nm": "데브시스터즈",
+      "bnm": "신한투자증권",
+      "tit": "단기 실적은 부진, 글로벌 팬덤은 상승세",
+      "rcnt": "2576",
+      "wdt": "20260123"
+    },
+    {
+      "id": 88363,
+      "cd": "194480",
+      "nm": "데브시스터즈",
+      "bnm": "IBK투자증권",
+      "tit": "일시적 적자 속에 보이는 내년 성장의 실루엣",
+      "rcnt": "4007",
+      "wdt": "20251121"
+    }
+  ],
+  "industryCode": "263",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "259960",
+      "reutersCode": "259960",
+      "stockName": "크래프톤",
+      "sosok": "0",
+      "closePrice": "273,000",
+      "compareToPreviousClosePrice": "3,000",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "1.11",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "12,942,470",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/259960"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "036570",
+      "reutersCode": "036570",
+      "stockName": "NC",
+      "sosok": "0",
+      "closePrice": "255,500",
+      "compareToPreviousClosePrice": "2,500",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "fluctuationsRatio": "0.99",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "5,504,497",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/036570"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "251270",
+      "reutersCode": "251270",
+      "stockName": "넷마블",
+      "sosok": "0",
+      "closePrice": "43,000",
+      "compareToPreviousClosePrice": "-4,100",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-8.70",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "3,524,295",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/251270"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "263750",
+      "reutersCode": "263750",
+      "stockName": "펄어비스",
+      "sosok": "1",
+      "closePrice": "52,500",
+      "compareToPreviousClosePrice": "0",
+      "compareToPreviousPrice": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      },
+      "fluctuationsRatio": "0.00",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "3,373,012",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/263750"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "462870",
+      "reutersCode": "462870",
+      "stockName": "시프트업",
+      "sosok": "0",
+      "closePrice": "31,150",
+      "compareToPreviousClosePrice": "-750",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-2.35",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "1,827,082",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/462870"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "192080",
+      "reutersCode": "192080",
+      "stockName": "더블유게임즈",
+      "sosok": "0",
+      "closePrice": "58,700",
+      "compareToPreviousClosePrice": "-300",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.51",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "1,242,882",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/192080"
+    }
+  ],
+  "consensusInfo": {
+    "itemCode": "194480",
+    "createDate": "2026-05-07",
+    "recommMean": "4.00",
+    "priceTargetMean": "47,000"
+  },
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": null
+}

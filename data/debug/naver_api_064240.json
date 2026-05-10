@@ -1,0 +1,394 @@
+{
+  "stockEndType": "stock",
+  "itemCode": "064240",
+  "reutersCode": "064240",
+  "stockName": "홈캐스트",
+  "totalInfos": [
+    {
+      "code": "lastClosePrice",
+      "key": "전일",
+      "value": "2,020"
+    },
+    {
+      "code": "openPrice",
+      "key": "시가",
+      "value": "2,020",
+      "compareToPreviousPrice": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      }
+    },
+    {
+      "code": "highPrice",
+      "key": "고가",
+      "value": "2,070",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      }
+    },
+    {
+      "code": "lowPrice",
+      "key": "저가",
+      "value": "1,995",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      }
+    },
+    {
+      "code": "accumulatedTradingVolume",
+      "key": "거래량",
+      "value": "153,653"
+    },
+    {
+      "code": "accumulatedTradingValue",
+      "key": "대금",
+      "value": "311백만"
+    },
+    {
+      "code": "marketValue",
+      "key": "시총",
+      "value": "704억"
+    },
+    {
+      "code": "foreignRate",
+      "key": "외인소진율",
+      "value": "2.66%"
+    },
+    {
+      "code": "highPriceOf52Weeks",
+      "key": "52주 최고",
+      "value": "2,925"
+    },
+    {
+      "code": "lowPriceOf52Weeks",
+      "key": "52주 최저",
+      "value": "1,600"
+    },
+    {
+      "code": "per",
+      "key": "PER",
+      "value": "2,030.00배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "eps",
+      "key": "EPS",
+      "value": "1원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "cnsPer",
+      "key": "추정PER",
+      "value": "N/A"
+    },
+    {
+      "code": "cnsEps",
+      "key": "추정EPS",
+      "value": "N/A"
+    },
+    {
+      "code": "pbr",
+      "key": "PBR",
+      "value": "0.83배",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "bps",
+      "key": "BPS",
+      "value": "2,458원",
+      "valueDesc": "2025.12."
+    },
+    {
+      "code": "dividendYieldRatio",
+      "key": "배당수익률",
+      "value": "N/A"
+    },
+    {
+      "code": "dividend",
+      "key": "주당배당금",
+      "value": "N/A"
+    }
+  ],
+  "iconInfos": null,
+  "description": null,
+  "etfKeyIndicator": null,
+  "dealTrendInfos": [
+    {
+      "itemCode": "064240",
+      "bizdate": "20260508",
+      "foreignerPureBuyQuant": "-3,049",
+      "foreignerHoldRatio": "2.66%",
+      "organPureBuyQuant": "-268",
+      "individualPureBuyQuant": "-1,683",
+      "closePrice": "2,030",
+      "compareToPreviousClosePrice": "10",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "153,653"
+    },
+    {
+      "itemCode": "064240",
+      "bizdate": "20260507",
+      "foreignerPureBuyQuant": "-5,106",
+      "foreignerHoldRatio": "2.66%",
+      "organPureBuyQuant": "+223",
+      "individualPureBuyQuant": "+9,883",
+      "closePrice": "2,020",
+      "compareToPreviousClosePrice": "-70",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "249,746"
+    },
+    {
+      "itemCode": "064240",
+      "bizdate": "20260506",
+      "foreignerPureBuyQuant": "-43,092",
+      "foreignerHoldRatio": "2.67%",
+      "organPureBuyQuant": "+45",
+      "individualPureBuyQuant": "+33,047",
+      "closePrice": "2,090",
+      "compareToPreviousClosePrice": "-160",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "328,496"
+    },
+    {
+      "itemCode": "064240",
+      "bizdate": "20260504",
+      "foreignerPureBuyQuant": "+28,840",
+      "foreignerHoldRatio": "2.80%",
+      "organPureBuyQuant": "0",
+      "individualPureBuyQuant": "-38,840",
+      "closePrice": "2,250",
+      "compareToPreviousClosePrice": "60",
+      "compareToPreviousPrice": {
+        "code": "2",
+        "text": "상승",
+        "name": "RISING"
+      },
+      "accumulatedTradingVolume": "408,418"
+    },
+    {
+      "itemCode": "064240",
+      "bizdate": "20260430",
+      "foreignerPureBuyQuant": "-4,397",
+      "foreignerHoldRatio": "2.75%",
+      "organPureBuyQuant": "0",
+      "individualPureBuyQuant": "+4,399",
+      "closePrice": "2,190",
+      "compareToPreviousClosePrice": "-135",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "accumulatedTradingVolume": "481,252"
+    }
+  ],
+  "researches": [],
+  "industryCode": "328",
+  "industryCompareInfo": [
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "071840",
+      "reutersCode": "071840",
+      "stockName": "롯데하이마트",
+      "sosok": "0",
+      "closePrice": "7,390",
+      "compareToPreviousClosePrice": "-30",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.40",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "174,460",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/071840"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "080420",
+      "reutersCode": "080420",
+      "stockName": "모다이노칩",
+      "sosok": "1",
+      "closePrice": "1,934",
+      "compareToPreviousClosePrice": "-21",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-1.07",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "154,181",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/080420"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "064800",
+      "reutersCode": "064800",
+      "stockName": "포니링크",
+      "sosok": "1",
+      "closePrice": "799",
+      "compareToPreviousClosePrice": "0",
+      "compareToPreviousPrice": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      },
+      "fluctuationsRatio": "0.00",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "102,118",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/064800"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "178780",
+      "reutersCode": "178780",
+      "stockName": "일월지엠엘",
+      "sosok": "1",
+      "closePrice": "2,480",
+      "compareToPreviousClosePrice": "-5",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.20",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "46,225",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KQ",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스닥",
+        "nameEng": "KOSDAQ",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSDAQ"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/178780"
+    },
+    {
+      "stockType": "domestic",
+      "stockEndType": "stock",
+      "itemCode": "002420",
+      "reutersCode": "002420",
+      "stockName": "세기상사",
+      "sosok": "0",
+      "closePrice": "5,260",
+      "compareToPreviousClosePrice": "-30",
+      "compareToPreviousPrice": {
+        "code": "5",
+        "text": "하락",
+        "name": "FALLING"
+      },
+      "fluctuationsRatio": "-0.57",
+      "accumulatedTradingVolume": "-",
+      "accumulatedTradingValue": "-",
+      "marketValue": "31,401",
+      "nav": "N/A",
+      "threeMonthEarningRate": "N/A",
+      "stockExchangeType": {
+        "code": "KS",
+        "zoneId": "Asia/Seoul",
+        "nationType": "KOR",
+        "delayTime": 0,
+        "startTime": "0900",
+        "endTime": "1530",
+        "closePriceSendTime": "1630",
+        "nameKor": "코스피",
+        "nameEng": "KOSPI",
+        "stockType": "domestic",
+        "nationCode": "KOR",
+        "nationName": "대한민국",
+        "name": "KOSPI"
+      },
+      "endUrl": "https://m.stock.naver.com/domestic/stock/002420"
+    }
+  ],
+  "consensusInfo": null,
+  "shareholdersMeetingInfo": null,
+  "irScheduleInfo": null
+}

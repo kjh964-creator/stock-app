@@ -1,0 +1,1140 @@
+{
+  "updated_at": "2026-05-10T19:55:51.217772",
+  "count": 88,
+  "by_ticker": {
+    "062040": {
+      "name": "산일전기",
+      "group": "관심1",
+      "news": []
+    },
+    "009150": {
+      "name": "삼성전기",
+      "group": "관심1",
+      "news": []
+    },
+    "440110": {
+      "name": "파두",
+      "group": "관심1",
+      "news": []
+    },
+    "000250": {
+      "name": "삼천당제약",
+      "group": "관심1",
+      "news": []
+    },
+    "006400": {
+      "name": "삼성SDI",
+      "group": "관심1",
+      "news": []
+    },
+    "161580": {
+      "name": "필옵틱스",
+      "group": "관심1",
+      "news": []
+    },
+    "012330": {
+      "name": "현대모비스",
+      "group": "관심1",
+      "news": []
+    },
+    "000270": {
+      "name": "기아",
+      "group": "관심1",
+      "news": []
+    },
+    "034020": {
+      "name": "두산에너빌리티",
+      "group": "관심1",
+      "news": []
+    },
+    "010130": {
+      "name": "고려아연",
+      "group": "관심1",
+      "news": []
+    },
+    "017670": {
+      "name": "SK텔레콤",
+      "group": "관심2",
+      "news": []
+    },
+    "010170": {
+      "name": "대한광통신",
+      "group": "관심2",
+      "news": [
+        {
+          "title": "[특징주] 대한광통신, AI 인프라 확대 수혜 기대감에 주가 급등 - ebn.co.kr",
+          "summary": "[특징주] 대한광통신, AI 인프라 확대 수혜 기대감에 주가 급등&nbsp;&nbsp;ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWEtELUJLeU9laG9QMVlyaE9TTmNTUVJVMFdHVUI0MUw2T0RGNE5jRm1mcE45aXhDZ0kxcmRpZ05oUXluc0pNZnR1VXdRSHZIUThWSzVQXzN6cHFmeFBVbEwyMER6T0tS?oc=5",
+          "date": "Thu, 07 May 2026 02:23:22 GMT"
+        },
+        {
+          "title": "05/08 [오늘의 실현 손익 리포트] _ #대한광통신 - 네이버 프리미엄콘텐츠",
+          "summary": "05/08 [오늘의 실현 손익 리포트] _ #대한광통신&nbsp;&nbsp;네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tX19WTG1IRjB1NDRhcm42cXliTFJ5YXlUekN1OXM5ZWszT0FoakstZngyMmtLOUdKaEdrV2RtZDZUTXphTW1CQmJPZy0xbDNPbFZfUGZPTnY3eGo5UHR4eGtXa1NjU21tbEc4XzNxV2F6UFFIZGZNOG92Sko1Zmc?oc=5",
+          "date": "Fri, 08 May 2026 07:43:00 GMT"
+        },
+        {
+          "title": "미국 공장 통째로 먹었다! 대한광통신 북미 싹쓸이한다 - MSN",
+          "summary": "미국 공장 통째로 먹었다! 대한광통신 북미 싹쓸이한다&nbsp;&nbsp;MSN",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQT0xlak5KbEFCbFFaZkFLSUtPZXVRTFdLY3g4eFNNckFLME9Ybmk5THl3dEF3bDdoMEQtRm94Smk2bHVlMXQ1bGpQeDhnUERlZDVEaV9xOENKNzZYUlRaWjJqOHRSREY2VWgyd1lHSGdCZS10VS1oNkk2Y2ZRTnB6YkNjb3J6MHBBWWdBMEt1bGJ1NENSVXFBYWRnWXBwMW02dzhvUVlCbWg4a21BWVR1VnlxYjREVFFERFVGSzFKSE85Snk5eVZpRlU3S29hSDYyOHIxbWo3Vk1aNTY1aDZOX2FrQl9MTmJ1WWt2WldOUTZFM2hJUkxXWE1CVFFhZm00UW1TcFZkbkZ1UXpzZ3ljb1dBN3FPT0M5d3BObTFxemtZWnVFcDFWNWhHSEt3UVhnbTRaVTNrVk5iYl9ibUE5VG1xVkxBVmx2WTBld0VLQWstTjlhOXR1Z0kxN3R4ZlBaWnRNbjRuZnVSUnJKSktOOGJhakNuakpRdnRZeg?oc=5",
+          "date": "Fri, 08 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "[공시] KBI메탈 '거래정지', 대한광통신·코리아써키트 '투자경고 예고' 등...42건 - 뉴스티앤티",
+          "summary": "[공시] KBI메탈 '거래정지', 대한광통신·코리아써키트 '투자경고 예고' 등...42건&nbsp;&nbsp;뉴스티앤티",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HQXhXTkI5VE5nVU0xUXdWdVlENzJVSUhjNUtIcXBHVUxmbWU3Vjh2ejZCOTdBWkQydTRYSmI1bUN5U2hzcTVBT3JfNkZ3clRlMEVEM213VjJSSDBKbDdsRWVnb3RBbmdKWHc?oc=5",
+          "date": "Thu, 07 May 2026 13:11:53 GMT"
+        },
+        {
+          "title": "하나증권 \"엔비디아 차세대 AI 반도체에 광섬유 도입 본격화, 관심주 대한광통신 우리넷\" - 비즈니스포스트",
+          "summary": "하나증권 \"엔비디아 차세대 AI 반도체에 광섬유 도입 본격화, 관심주 대한광통신 우리넷\"&nbsp;&nbsp;비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNUlUcWI5cGFOcmpobW1lTW9ETVUySlpEQ2o3My1vQjIxU3V5TGlRckpqakt4M0xEcUNFSllFdjJfNWMxZUZRZWdGOTAwQkczbW9IMi1wamxfd2xHaW1VNFMzekRfWUpfZ2IwTkdKNlVhRnc?oc=5",
+          "date": "Wed, 06 May 2026 23:42:56 GMT"
+        },
+        {
+          "title": "[속보] 대한광통신 VI 발동, 주가 10%↑…장초반부터 급등 - CBC뉴스",
+          "summary": "[속보] 대한광통신 VI 발동, 주가 10%↑…장초반부터 급등&nbsp;&nbsp;CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbnNfM0c2YVNUS094Sy1zcHpBSVUxeGVFTjhVUFhBNVpadjVydjhzakliMEUzUlFsNm5ISEhnX1MtckpqVFZtd1Jxc28yaUZyZlU4YkxWeElfdExnaGFyazdJOA?oc=5",
+          "date": "Fri, 08 May 2026 00:27:08 GMT"
+        },
+        {
+          "title": "대한광통신, 미 데이터센터에 납품…재무관리는 숙제 - 한국경제TV",
+          "summary": "대한광통신, 미 데이터센터에 납품…재무관리는 숙제&nbsp;&nbsp;한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xcU43c29EVENtdmdjVThLRlhmZEJPOUJ2ZGVBeEZERFhOMDFGY3djbmNjNDM3SGhnYWxRSkprdmZRSmpuTkJpUGJsWnI0UUllWEdoUjdVQ2kwcmtXVTlUVm9vMTE2X1BIQTk0a25LQXA2QWc?oc=5",
+          "date": "Fri, 08 May 2026 05:31:00 GMT"
+        },
+        {
+          "title": "대한광통신 주가, 급등세... 왜? - 금강일보",
+          "summary": "대한광통신 주가, 급등세... 왜?&nbsp;&nbsp;금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueGVqLXVlUFhwcm1Fb3VnTUFJaHQ1RUdpRzRPaUx5RzljVXU3dUZZWDMtNnhKS2loVzIxdnpVdlJvVFI3Zm1KbVNMYnVZaTc4ekJrMHpzSURGa05aY0k5SjFhZ3I3TU1kSFE?oc=5",
+          "date": "Thu, 07 May 2026 00:19:02 GMT"
+        }
+      ]
+    },
+    "064350": {
+      "name": "현대로템",
+      "group": "관심2",
+      "news": []
+    },
+    "047810": {
+      "name": "한국항공우주",
+      "group": "관심2",
+      "news": []
+    },
+    "000000": {
+      "name": "액스비스",
+      "group": "관심2",
+      "news": []
+    },
+    "099320": {
+      "name": "쎄트렉아이",
+      "group": "관심2",
+      "news": []
+    },
+    "006800": {
+      "name": "미래에셋증권",
+      "group": "관심2",
+      "news": []
+    },
+    "064240": {
+      "name": "LG씨엔에스",
+      "group": "관심3",
+      "news": []
+    },
+    "078600": {
+      "name": "대주전자재료",
+      "group": "관심3",
+      "news": []
+    },
+    "005380": {
+      "name": "현대차",
+      "group": "관심3",
+      "news": []
+    },
+    "000660": {
+      "name": "SK하이닉스",
+      "group": "관심3",
+      "news": []
+    },
+    "005930": {
+      "name": "삼성전자",
+      "group": "관심3",
+      "news": []
+    },
+    "066570": {
+      "name": "LG전자",
+      "group": "관심3",
+      "news": [
+        {
+          "title": "LG전자 류재철 \"이기는 실행에 집중해 일등 LG전자 만들자\" - 조선일보",
+          "summary": "LG전자 류재철 \"이기는 실행에 집중해 일등 LG전자 만들자\"&nbsp;&nbsp;조선일보류재철 LG전자 사장 “문제 드러내기·이기는 실행”…첫 타운홀 미팅서 ‘일등 LG전자’ 강조&nbsp;&nbsp;이투데이류재철 LG전자 CEO \"문제 드러내고 ‘이기는 실행’해 일등 LG 만들자\"&nbsp;&nbsp;지디넷코리아류재철 CEO \"문제 드러내기·이기는 실행",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5fNWdfQnhvc2pPTklhN001T0V0ZElhQmNoUElTVVBON1FvN1VadEJ4VVczT1BYYjJ0TWtxWmpIR3BKcHgyWUF0N3l5V3haYWtXVU54TEQyZjY2T1phSUJDX0dZeUVHZzdfcXF5bW5nZ04yX2RuRTROVDAwVHU3Y2stOA?oc=5",
+          "date": "Sun, 10 May 2026 01:31:00 GMT"
+        },
+        {
+          "title": "한국형 피지컬 AI 시동…LG전자 '월드모델'-KT '로봇모델' 개발한다 - 전자신문",
+          "summary": "한국형 피지컬 AI 시동…LG전자 '월드모델'-KT '로봇모델' 개발한다&nbsp;&nbsp;전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40UmpkQXhqaUNxanFmZ1pOUGpQZU5rSkJRUE40aUN6c1pRYUdGRTlCYUJjb293RHVSX29jYlpFVnYyYlRHWENqd1JOR2VIUQ?oc=5",
+          "date": "Sun, 10 May 2026 03:00:00 GMT"
+        },
+        {
+          "title": "LG전자, IoT 시스템 관련 美업체에 특허침해 피소…삼성전자에도 제기 전력 - 연합인포맥스",
+          "summary": "LG전자, IoT 시스템 관련 美업체에 특허침해 피소…삼성전자에도 제기 전력&nbsp;&nbsp;연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SDZrbWZtQkw1X05QcGZTRWtKT1cxQTh5Sm9hSExyZ0VCRGJvYVZkOUlwWUlpeDJsbWI1emVLNnJ6SkhrLXByWGNjZ2xLVUhIU2c1bTV0aXkzRUVsZnVMSXF6RjRQNEM1S3A3UWx2V2Q?oc=5",
+          "date": "Sun, 10 May 2026 04:08:07 GMT"
+        },
+        {
+          "title": "‘공조 매출 20조’ LG전자, 美·유럽서 순항 - v.daum.net",
+          "summary": "‘공조 매출 20조’ LG전자, 美·유럽서 순항&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kOTdzUUNOcXVpbS1XWDlfNlhnZHFYRExnLVNqOUlMQ1N4cGhYSjhMOHpJaEYzdWtsU3p3VzVScHVFc0x3bGU0dmxGOEJya28?oc=5",
+          "date": "Sun, 10 May 2026 05:47:39 GMT"
+        },
+        {
+          "title": "LG전자, 일체형 히트펌프 보일러 신제품 국내 출시 - 냉동공조저널",
+          "summary": "LG전자, 일체형 히트펌프 보일러 신제품 국내 출시&nbsp;&nbsp;냉동공조저널",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96cWVoRlZNNExuZGh6ejdsaTB0NXZyLWFvb1Y0YU1XSXBwS0Y1OElCUzdGaENmdXZIX3lITVRNQ1czMXlERHBzR3hVTWJsc19zc0wza0g4MFE3ZEhBWHkwcGtxWTVEZ21UVGc?oc=5",
+          "date": "Sun, 10 May 2026 05:29:22 GMT"
+        },
+        {
+          "title": "\"이기는 실행으로 1등 LG전자 만들자\" - 매일경제",
+          "summary": "\"이기는 실행으로 1등 LG전자 만들자\"&nbsp;&nbsp;매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80MlM1QjVuZGsxMF92Z1pVcC16S1VDdmUwei1qdUo0aHNBS080UnZDeTNBeXAyUTlLd0xOZzFHR2RtNWVJQndQM0tQUkZsVm1kakhzZG5R?oc=5",
+          "date": "Sun, 10 May 2026 07:23:54 GMT"
+        },
+        {
+          "title": "LG전자 류재철 CEO, 타운홀 미팅 개최…“문제 드러내고 이기는 실행해야” - fetv.co.kr",
+          "summary": "LG전자 류재철 CEO, 타운홀 미팅 개최…“문제 드러내고 이기는 실행해야”&nbsp;&nbsp;fetv.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53TFZYWXc2SFplcGFFWlExX2dobXFqaTBLbFJlVENvWmtfSUhhdHhzZDZBNFNpUFRBdXRHem9leWRWUVZhWnRJTWljcmtRTGN5RUdBRkNYeFVyVDlGWTVZZ3M4VzFFY01I?oc=5",
+          "date": "Sun, 10 May 2026 06:08:04 GMT"
+        },
+        {
+          "title": "류재철 LG전자 CEO, ‘리인벤트 2.0’ 제시⋯“문제 드러내고 이기는 실행 집중\" - 브릿지경제",
+          "summary": "류재철 LG전자 CEO, ‘리인벤트 2.0’ 제시⋯“문제 드러내고 이기는 실행 집중\"&nbsp;&nbsp;브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFSUxCU0lwMk9oRXhYV0wxMmdfUVdMSl9TNE5Fcjd0RzQ5V1k3RkpQS1ptTFlrazNBc2dHblNxNDhqRWtmZmtJTURPalRJMWsxYk1xRVZzZFNGZw?oc=5",
+          "date": "Sun, 10 May 2026 01:01:00 GMT"
+        }
+      ]
+    },
+    "011070": {
+      "name": "LG이노텍",
+      "group": "관심3",
+      "news": []
+    },
+    "066970": {
+      "name": "엘앤에프",
+      "group": "관심3",
+      "news": []
+    },
+    "373220": {
+      "name": "LG에너지솔루션",
+      "group": "관심3",
+      "news": []
+    },
+    "052690": {
+      "name": "한전기술",
+      "group": "관심5",
+      "news": []
+    },
+    "009830": {
+      "name": "한화솔루션",
+      "group": "관심5",
+      "news": []
+    },
+    "462350": {
+      "name": "이노스페이스",
+      "group": "관심5",
+      "news": []
+    },
+    "361390": {
+      "name": "제노코",
+      "group": "관심5",
+      "news": []
+    },
+    "272210": {
+      "name": "한화시스템",
+      "group": "관심5",
+      "news": []
+    },
+    "307950": {
+      "name": "현대오토에버",
+      "group": "관심1",
+      "news": []
+    },
+    "042700": {
+      "name": "한미반도체",
+      "group": "섹터대표",
+      "news": []
+    },
+    "000990": {
+      "name": "DB하이텍",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "DB하이텍, 전력반도체 매출 비중 70% 안착···GaN·SiC 양산은 지연 - 시사저널e",
+          "summary": "DB하이텍, 전력반도체 매출 비중 70% 안착···GaN·SiC 양산은 지연&nbsp;&nbsp;시사저널e",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSOHJYUkZ2RnZKLU90aXZSbUxHd3d6aGt6emJWQ1BUY0Ywc2tXTDJXaGFGcW1kOWlLMjFJZmVsYXlHQ25KTFRFRHZZdmhtandMa1VqODQzM3dXWXJEMGJJM0NuVUhjWnlEa0Npd3F1SEVMUdIBdkFVX3lxTE1VN2FFeTk1VzQwVXZLTzRNY2NrTjdyS3hGbWNXWVVuR3FqR1lXa3NtUmdoSldlRTFGN2ppX243cTRIa3p6X2hIdnJxQmpsd2JSZE1tcV9ESzB1NzM3LTd2VHE3Y2o3OHcxd2NOZms5U2FXUjdtckE?oc=5",
+          "date": "Sun, 10 May 2026 01:00:00 GMT"
+        },
+        {
+          "title": "DB하이텍, 1분기 영업익 637억원…전년비 21% 상승 - 디일렉",
+          "summary": "DB하이텍, 1분기 영업익 637억원…전년비 21% 상승&nbsp;&nbsp;디일렉",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWkQ2b3NacEdGSVo1VzR4TjdoRkNfNlhEdFBUajlzcU8ya01qZGVSV3pJWV9JUS1zV0JVR3dKTm5qb1dmblhhZzcySnJuRVNOTm5JX3VrcXk4NkYwWlFlMS1wYUdlZw?oc=5",
+          "date": "Wed, 06 May 2026 02:47:05 GMT"
+        },
+        {
+          "title": "DB하이텍 오너리스크에…국민성장펀드 메가프로젝트 '구멍' 위기 - 연합인포맥스",
+          "summary": "DB하이텍 오너리스크에…국민성장펀드 메가프로젝트 '구멍' 위기&nbsp;&nbsp;연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJU3hNckZkR2JHTmtPV3N4M2kzOGJwWDNUTzBucTVnQXFtblZqZVJzdldGdFJCTnc4LWlIUFlUbU5HYlpuVGVyNzZiU3I1ekp2My13NHpfa0pSZTBvVGRONFR4cHdSMS1mZnpqMlhpYkE?oc=5",
+          "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "DB하이텍, 1분기 영업익 673억…전력반도체 실적 견인 - 뉴스토마토",
+          "summary": "DB하이텍, 1분기 영업익 673억…전력반도체 실적 견인&nbsp;&nbsp;뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5cF9sNWlKeXlDUHNDVmpma1U3ZFdCd3kyY3loNXc1UGMxTkhYc2JDcHlva3RrMVhTNGoxS2VpSzVJTVZ6dFoteGRoOWNPZGJiYnozWndQb09nUzl1SmNTUQ?oc=5",
+          "date": "Wed, 06 May 2026 06:18:21 GMT"
+        },
+        {
+          "title": "[공시] DB하이텍, 올 1분기 영업이익 637억 원.. 전년 대비 21% 증가 - 글로벌이코노믹",
+          "summary": "[공시] DB하이텍, 올 1분기 영업이익 637억 원.. 전년 대비 21% 증가&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN1dnbllUSWZFekV3Mm5lY19aSzdQY2RfNDJCNVJ4QmVIMGEtY3V6QnFLSVJSbVB4TGZ2QjZBb1pJS2xOc1pwUGx1QzBPbTBoVTVjLWVoSkd5aGkwME1wSUpqODBNNGNkZ2p5YzVoZjk5dm02MEtoZmZSdVFqSnBkVXNvaU4xYTJk?oc=5",
+          "date": "Wed, 06 May 2026 01:34:10 GMT"
+        },
+        {
+          "title": "DB하이텍, 1분기 영업익 637억…전년比 21%↑ - v.daum.net",
+          "summary": "DB하이텍, 1분기 영업익 637억…전년比 21%↑&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4OFpLSEFzUVhWVjFjS1pjdEpvbW83MFNaa1diazRwMDg4WnNxZnRnaVZoLTdyLWxzMTVXeEFLeEJ4U2p4NmN4OExkbk1BTnM?oc=5",
+          "date": "Wed, 06 May 2026 00:18:34 GMT"
+        },
+        {
+          "title": "DB하이텍, 전력반도체 수요 확대…가동률·수익성 개선 - 뉴스저널리즘",
+          "summary": "DB하이텍, 전력반도체 수요 확대…가동률·수익성 개선&nbsp;&nbsp;뉴스저널리즘",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91dXRSbDlTSk5nVUFhMVFpc3NuWW9QOTJ2RlpmMUl2WVRXVVBKTFBncXl4WW1Ic1dyZmdwU180TzlGN08wZEt4d2lXRnY1cDJ4WnFJeUMxX0xCdk9kSzFoTmFNaDlwZ3pIMzZj?oc=5",
+          "date": "Fri, 08 May 2026 10:33:21 GMT"
+        },
+        {
+          "title": "DB하이텍, 1분기 영업익 637억원…전년비 21% 증가 - 지디넷코리아",
+          "summary": "DB하이텍, 1분기 영업익 637억원…전년비 21% 증가&nbsp;&nbsp;지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MT1RSQnJHSWJuYmpXZlhETmFNZldDdlNheXBqN3JHNVZSNkFxTzB5UFlQMUZBY0xFWl9iUUVLa3pBMUlFTWlfUUhPNks3SW0xRElVUUZB?oc=5",
+          "date": "Wed, 06 May 2026 00:15:57 GMT"
+        }
+      ]
+    },
+    "058470": {
+      "name": "리노공업",
+      "group": "섹터대표",
+      "news": []
+    },
+    "240810": {
+      "name": "원익IPS",
+      "group": "섹터대표",
+      "news": []
+    },
+    "357780": {
+      "name": "솔브레인",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005290": {
+      "name": "동진쎄미켐",
+      "group": "섹터대표",
+      "news": []
+    },
+    "039030": {
+      "name": "이오테크닉스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "402340": {
+      "name": "SK스퀘어",
+      "group": "섹터대표",
+      "news": []
+    },
+    "003670": {
+      "name": "포스코퓨처엠",
+      "group": "섹터대표",
+      "news": []
+    },
+    "247540": {
+      "name": "에코프로비엠",
+      "group": "섹터대표",
+      "news": []
+    },
+    "096770": {
+      "name": "SK이노베이션",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005070": {
+      "name": "코스모신소재",
+      "group": "섹터대표",
+      "news": []
+    },
+    "278280": {
+      "name": "천보",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "천보, 북미 T사 차세대 로보택시 '핵심 소재' 공급 개시…\"몇 없는 사이버캡 최대 수혜주\" - 프라임경제",
+          "summary": "천보, 북미 T사 차세대 로보택시 '핵심 소재' 공급 개시…\"몇 없는 사이버캡 최대 수혜주\"&nbsp;&nbsp;프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ib2htTDI5Um9Qb0p2NzdzN2VuYUtYU3NaNEMySnd6WTQydm9Jek5LcTltMjk5d1RLQjhaYklLUDRBLWRhel9wc25XTjNlMVhvSXJWSVpha0RpQm1jYllXRUl2RWhfdw?oc=5",
+          "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "04화 프라하에서 3만 7 천보걸은 날, 실감하게 된 사실 - 브런치",
+          "summary": "04화 프라하에서 3만 7 천보걸은 날, 실감하게 된 사실&nbsp;&nbsp;브런치",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRm9tQS1TTTRPT0ppMGVwWmtVMEk1c0NJT0cyVTRqd0otamR4R3ZNRzN4YUZwR2xyNllON0I3OFplUnhaX0Jj?oc=5",
+          "date": "Thu, 07 May 2026 11:37:37 GMT"
+        },
+        {
+          "title": "[헬로스톡 - 4/13] 천보, 테슬라 4680 배터리 핵심 소재 공급…목표가 79,000원 상향 - 헬로티",
+          "summary": "[헬로스톡 - 4/13] 천보, 테슬라 4680 배터리 핵심 소재 공급…목표가 79,000원 상향&nbsp;&nbsp;헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vREI2LVdGb0dYSUV0QlZ4a1JoMjd4azhfelVHRkdNREYzb2VOc3JHYmxGQUlKLTJxTWphOXM5UnpGanJTcUhkVFFvVURFTHpzSWtTZ25YUWY4andudGFR?oc=5",
+          "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "천보 투자분석 2026. 04. 23 - 주달",
+          "summary": "천보 투자분석 2026. 04. 23&nbsp;&nbsp;주달",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXQ2w3UG9mbUFZME01RWNaUDRVSzB0cTRSOU44NkhVc2VfY05VZWMwdXZ3akZvV1RjQlNMaExEX0J1M0JKNVotUWVJVkVvOFlPZjB5S1lwMlRJS3ZJNGZUYnV4b29xaHZfczdzQXNjbktfeFk?oc=5",
+          "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "[특징주] 천보, 북미 '사이버 캡' 핵심 소재 공급 소식에 23%↑ - 뉴스드림",
+          "summary": "[특징주] 천보, 북미 '사이버 캡' 핵심 소재 공급 소식에 23%↑&nbsp;&nbsp;뉴스드림",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJVy1ZMmhJV2txaC1hbUd2NXFMMkc5TVRJRDdfbjgwZnFXcE5ORGtFMVlkX2lkRkxudGFLSmJmbi1HdXNsenZ4N2ZfdkRKSHZpNXVpN2pjT3VMa09GMkJ6MVlSaEF1UGZUenfSAW5BVV95cUxNZnRrUnVlNkJXdGthR1ZCRk4wc1QyTG5qR0VKazRTQ2dhN2F3YmhvOUhuemJ4QldNWHVtLXpZNkVZU3FxY1EtX2hiMHNfOGJhY1ViblF6X1B2bXJiSmhBOU9wS2wtek81Z0NPY2VZQQ?oc=5",
+          "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "천보 주가 장중 25% 올라, 테슬라 로보택시 '사이버캡' 기대에 목표주가 상향 - 비즈니스포스트",
+          "summary": "천보 주가 장중 25% 올라, 테슬라 로보택시 '사이버캡' 기대에 목표주가 상향&nbsp;&nbsp;비즈니스포스트",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRRGFrNlgyNkJLcVhhaXhfNGc0VFRDWnVRUDdaQmF1d19MLVg5TVl4ZGVhVWM3cHZQeS1HejJfRzFPNjFoaVFjV0tNQ3JmNkw2bDhIVlFSMDZZUE5EQ04yUjNIQ3k4YXZDSE5vdWZ1SElGa28?oc=5",
+          "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "천보, 제6회차 전환사채 전환청구권 행사로 13만2286주 전환 - 디지털투데이",
+          "summary": "천보, 제6회차 전환사채 전환청구권 행사로 13만2286주 전환&nbsp;&nbsp;디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qMFJ4bmFmWXBHRGhLR3I5RmNiaGNqZktZUmp6c2dxdmpUM2xxSzJxOWdpdnJVRVlHM3VWRXRFZnA1enA4ZmZ1YlNDbXJHN04yYVh5RXVRSW5NQWRSa0xsRXltY3Z2WWlkWVlTNkxibmZtbEE?oc=5",
+          "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "동화일렉트로라이트, 피지티·천보와 북미 배터리 소재 협력 - 디일렉",
+          "summary": "동화일렉트로라이트, 피지티·천보와 북미 배터리 소재 협력&nbsp;&nbsp;디일렉",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfRUZPcExRWlB2NHlncG1BTHB6NVhranpONFlva3ltU0UxWkhoUVdJMnI0YkxJQVdfbndGakRYZ0RJQW9aQ2xVNmR2end1bmJTT19VUk9TdXg0dzVXWEo1Z19LelZLZw?oc=5",
+          "date": "Wed, 11 Feb 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    "336370": {
+      "name": "솔루스첨단소재",
+      "group": "섹터대표",
+      "news": []
+    },
+    "121600": {
+      "name": "나노신소재",
+      "group": "섹터대표",
+      "news": []
+    },
+    "018880": {
+      "name": "한온시스템",
+      "group": "섹터대표",
+      "news": []
+    },
+    "204320": {
+      "name": "HL만도",
+      "group": "섹터대표",
+      "news": []
+    },
+    "011210": {
+      "name": "현대위아",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005850": {
+      "name": "에스엘",
+      "group": "섹터대표",
+      "news": []
+    },
+    "003620": {
+      "name": "KG모빌리티",
+      "group": "섹터대표",
+      "news": []
+    },
+    "161390": {
+      "name": "한국타이어앤테크놀로지",
+      "group": "섹터대표",
+      "news": []
+    },
+    "207940": {
+      "name": "삼성바이오로직스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "068270": {
+      "name": "셀트리온",
+      "group": "섹터대표",
+      "news": []
+    },
+    "000100": {
+      "name": "유한양행",
+      "group": "섹터대표",
+      "news": []
+    },
+    "326030": {
+      "name": "SK바이오팜",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "삼성바이오·셀트리온·SK바이오팜, 글로벌 확장 전략 적중했다 - 데일리한국",
+          "summary": "삼성바이오·셀트리온·SK바이오팜, 글로벌 확장 전략 적중했다&nbsp;&nbsp;데일리한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUWNJR1NsYng0eUVWeEJKYWhVb2FmX3FlZkpmMnQtZ0FIRDNQeHlfdWdWa0JrWEFlLWg2ZEFYak1rS0JDaktDdzVQQWFoM3RoNlFYZElMS1dLMnk1Yk5xd0Z6VHRaeDNTZnpiblJQUdIBc0FVX3lxTE5fVEJYcS1sNXFoRktnY0QwRmlXNEJOTlg4bTBmZ2dmTmJUX3hTcFVoemNPRVprQ3FINU00ZFRxeTRZN014Q3c2SGRmRzV5YzFrMzk2WGJOZmNDbllTOHlyMFEtdFNQb0lnREk4VC01V1FtcjQ?oc=5",
+          "date": "Sun, 10 May 2026 01:00:00 GMT"
+        },
+        {
+          "title": "SK바이오팜, 1분기 영업익 898억 '사상 최대' - 디일렉",
+          "summary": "SK바이오팜, 1분기 영업익 898억 '사상 최대'&nbsp;&nbsp;디일렉",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kV0lzbnBZcUV4bVR6cU1rNXA4T2U5X19LT0MyVk54SC0ycm5oMXIyenpubGdPNUlyYzU2ckhmcHhBMXJHVkVGcmpzQjFNM0VPclA3X1liMG1VTTNMblZKUjlMMjNPZw?oc=5",
+          "date": "Thu, 07 May 2026 22:21:03 GMT"
+        },
+        {
+          "title": "SK바이오팜, 1분기 영업이익 898억원…세노바메이트 성장세 - 약사공론",
+          "summary": "SK바이오팜, 1분기 영업이익 898억원…세노바메이트 성장세&nbsp;&nbsp;약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFUjJHVTkya21KOUVDaVlzWVI4b2taX1hpOVplaThoTXV6R3RzUlpEWW40Yk14NUpQM01TaU1ndHlmRDA3a0kzQ2ZIWFQzOGRlMlVkMVh6RTJvNHZXRXRBaUZiTDVMX2YwSkwtRA?oc=5",
+          "date": "Thu, 07 May 2026 01:10:14 GMT"
+        },
+        {
+          "title": "SK바팜, 신약 전략 재정비…RPT·TPD 투트랙에 집중 - 데일리팜",
+          "summary": "SK바팜, 신약 전략 재정비…RPT·TPD 투트랙에 집중&nbsp;&nbsp;데일리팜",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6QVlBblBfeHdiOUR4dmd4NWVZSURlc3NSSl9RWjlyOFVqVUF6TjhZZkpHcVlxUm1PUW9EQ1ptWWVTVm14SkpoZTBPdnU1U01j?oc=5",
+          "date": "Sat, 09 May 2026 17:15:34 GMT"
+        },
+        {
+          "title": "[실적] SK바이오팜, 분기 매출 2279억...\"세노바메이트 수익 R&D 재투자\" - 히트뉴스",
+          "summary": "[실적] SK바이오팜, 분기 매출 2279억...\"세노바메이트 수익 R&D 재투자\"&nbsp;&nbsp;히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DcDVTUnlKd0xqS1NDcnZjTThEMFZoX0xCOHRoMEM3MmhTaHBwSmlWT1RIekYzNU9tRTVxMlVxYjZkRmQtV19CTlFnMGhVY2x0NmZGYVMtY1ZFRkdzbXM2cjZfOGt4Z3p4MU9F?oc=5",
+          "date": "Thu, 07 May 2026 02:54:13 GMT"
+        },
+        {
+          "title": "SK바이오팜, 엑스코프리 미국 매출 확대에 수익성 급등 - 메디코파마",
+          "summary": "SK바이오팜, 엑스코프리 미국 매출 확대에 수익성 급등&nbsp;&nbsp;메디코파마",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lRG9OWkx1S2FERFR4YWJJWG1XMDY1ZXlzV0xMUjM0VXlWcXBSMkNSZGQ1WlVKVXVGN0ZfU1RTc281MUw2Z015NzVGaTlFdkE0bk1XbXdtS1p4SmQ0bk9kZmdCZGRtZkwzclBBem81QXhuQQ?oc=5",
+          "date": "Thu, 07 May 2026 23:08:13 GMT"
+        },
+        {
+          "title": "SK바이오팜, 1Q 영업익 898억…분기 기준 최대 실적(종합) - 연합인포맥스",
+          "summary": "SK바이오팜, 1Q 영업익 898억…분기 기준 최대 실적(종합)&nbsp;&nbsp;연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bGNhSDdzR0RabVpUdU9sRkRsNGVhSnUzLW1XS212TXNvd1NZVXoyNEVLR0xPcjQ1bW9oX3pMZmhDQjczU1pRSm5VU2pBa25WazQxRlBnVm9ycmMtRU9mXzU5WjdqajRCbDBOTGxLZV8?oc=5",
+          "date": "Thu, 07 May 2026 02:24:28 GMT"
+        },
+        {
+          "title": "SK바이오팜, 세노바메이트 1분기 신규 처방 환자 수 사상 최고치 - 약업신문",
+          "summary": "SK바이오팜, 세노바메이트 1분기 신규 처방 환자 수 사상 최고치&nbsp;&nbsp;약업신문",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NbjNaUTFrY3Jwek52cHRaaWhNTVhhU3hOUk8zdFRSa1ljWmlTLVlINTRZTFVlendrRTFfRndFLWVmekFKZy1YYXk1enhGel9zUDlGbGZtSlp6Y2xwajFqaU1NVk9OYmNJV0Jaelc4bWR6MUV1SFRN?oc=5",
+          "date": "Fri, 08 May 2026 02:24:00 GMT"
+        }
+      ]
+    },
+    "128940": {
+      "name": "한미약품",
+      "group": "섹터대표",
+      "news": []
+    },
+    "185750": {
+      "name": "종근당",
+      "group": "섹터대표",
+      "news": []
+    },
+    "006280": {
+      "name": "녹십자",
+      "group": "섹터대표",
+      "news": []
+    },
+    "069620": {
+      "name": "대웅제약",
+      "group": "섹터대표",
+      "news": []
+    },
+    "001060": {
+      "name": "JW중외제약",
+      "group": "섹터대표",
+      "news": []
+    },
+    "003850": {
+      "name": "보령",
+      "group": "섹터대표",
+      "news": []
+    },
+    "035420": {
+      "name": "NAVER",
+      "group": "섹터대표",
+      "news": []
+    },
+    "035720": {
+      "name": "카카오",
+      "group": "섹터대표",
+      "news": []
+    },
+    "259960": {
+      "name": "크래프톤",
+      "group": "섹터대표",
+      "news": []
+    },
+    "036570": {
+      "name": "엔씨소프트",
+      "group": "섹터대표",
+      "news": []
+    },
+    "251270": {
+      "name": "넷마블",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "과금보다 '재미'…넷마블 '게임 본질' 집중 전략, 글로벌 적중 - 지디넷코리아",
+          "summary": "과금보다 '재미'…넷마블 '게임 본질' 집중 전략, 글로벌 적중&nbsp;&nbsp;지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUkhuR28zZkhoazVjTEw2Y2lLX3hTUEJyY0VFemRsZ2JHZll5aHIwSGJKWEJCTEh4M1hVelZJaTNSNnRnTXdGTEtzNkRDTjVFb2NhLWF3?oc=5",
+          "date": "Sun, 10 May 2026 00:11:09 GMT"
+        },
+        {
+          "title": "글로벌 IP 기반, 넷마블 신작 ‘프로젝트 이지스’ 공개 - 게임메카",
+          "summary": "글로벌 IP 기반, 넷마블 신작 ‘프로젝트 이지스’ 공개&nbsp;&nbsp;게임메카",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LUTl3eGxTN2pVVlZYWGRxSzRtdzRhWF9FeE40WExjeDI3ZnR3TjdWTTRWN2FqcG8yRkp4d2RRTzBic3B1RjlDVERlbEhfMzBUTkVhbndRZErSAVtBVV95cUxQeDFoWFpxUUJENno0bXlNLUtnc2dOZUxFalQxNFdEZXlYQXJua0l6cFV4UzEwRlU2Y01YMkRxaXBUSjYtam8yWktnY3FxNXZDSHZpWFFBMDZkck53?oc=5",
+          "date": "Thu, 07 May 2026 08:57:57 GMT"
+        },
+        {
+          "title": "넷마블 1분기 실적 531억원… 전년比 6.8%↑ - v.daum.net",
+          "summary": "넷마블 1분기 실적 531억원… 전년比 6.8%↑&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZmdjT0U1ZHFQQmVIMUZXZ0xXNXRkUlZpS0dlRWJHdHVzLURkeVhRWEgzR1NJSFBueWlya3V1VXl1elZxZmNpTUljeFhFbzQ?oc=5",
+          "date": "Sat, 09 May 2026 06:30:17 GMT"
+        },
+        {
+          "title": "성진우 따라 들어선 넷마블게임박물관, 조선 놀이판 펼쳐졌다 [현장+] - 블로터",
+          "summary": "성진우 따라 들어선 넷마블게임박물관, 조선 놀이판 펼쳐졌다 [현장+]&nbsp;&nbsp;블로터",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kOVIweVlRWklmcVV1cnJOVTVwWEpUT2hSOHB1eW9OTFhpMkg3OGFVSlpLX1I4WF9OMkFOcU5PSlBLdFhaaC1sUkdmMHIwdGJxWS03NkYtY0tUNDZwSkhLREp0UVhsRExa0gFsQVVfeXFMTWV1NVNVZUsxYXVfc3N6Z3NCYnZXcEJtbXhQcE9BUENmRV95eEYtMmlzcW54eWhPZHRxWjVDNFZjVkVQTmRsaHFpQVA2UHFQUGpITmpGUzhwWXJnYjZwNHlPZHFQNzQ0Sk5aZjc2?oc=5",
+          "date": "Fri, 08 May 2026 07:44:34 GMT"
+        },
+        {
+          "title": "넷마블 주가 전망 [금주 주목할 게임 IT 주식] - 경향게임스",
+          "summary": "넷마블 주가 전망 [금주 주목할 게임 IT 주식]&nbsp;&nbsp;경향게임스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MOV9MQnowQWlpYnNtb0xEOVVyeWk1ZWlLcnFFZ295bGloaEtSdmxlNl9WaEF0ajZPd0lqMmRVQWwwRU0tNXc5Ym45aDRDT0dlNkVWZFhGUm1ZUVNhUHh3X1ZBcWtub2VNSWVLcQ?oc=5",
+          "date": "Sun, 10 May 2026 00:00:00 GMT"
+        },
+        {
+          "title": "[오늘의 증시일정] 넷마블·GS리테일·한국항공우주 등 - 이투데이",
+          "summary": "[오늘의 증시일정] 넷마블·GS리테일·한국항공우주 등&nbsp;&nbsp;이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvVnI2WGlQSG9OajlnVzRaYWZ1b29GZlR0WXRSa2hEQWFsaHZRYUNCMEtWaXQtREtpZWFFV1E3dmFtTVQ0YTdiUUFocmFEQjJUV3JIOQ?oc=5",
+          "date": "Wed, 06 May 2026 23:12:00 GMT"
+        },
+        {
+          "title": "[컨콜] 넷마블, 26년 하반기 '프로젝트 이지스' 포함 신작 5종 출시한다 - 인벤",
+          "summary": "[컨콜] 넷마블, 26년 하반기 '프로젝트 이지스' 포함 신작 5종 출시한다&nbsp;&nbsp;인벤",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tMHQ4OERIU1BHM3ZUVjJsNmxzQ0hXaDVYSXR3NDMtWi1NZjY5VXdBVmRPakc4MzhlNGRsdFlmQWRYQ3dDUTN0UXNLak5XNEtreF9ZejRVRmhJRF80aUE?oc=5",
+          "date": "Thu, 07 May 2026 07:51:47 GMT"
+        },
+        {
+          "title": "넷마블 '블소 레볼루션', 언리얼 엔진5 교체 승부수 - 지디넷코리아",
+          "summary": "넷마블 '블소 레볼루션', 언리얼 엔진5 교체 승부수&nbsp;&nbsp;지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBRDZaMVRybGNaVmtxZlBfcmdPY1VXZExLZ2hfekl4V1NITW9GSmtTaUJjQXJJWW0tWmFkb0JXRW10eGlocFVuVFY5VWg0UHo0NkdIQVhB?oc=5",
+          "date": "Fri, 08 May 2026 05:25:01 GMT"
+        }
+      ]
+    },
+    "293490": {
+      "name": "카카오게임즈",
+      "group": "섹터대표",
+      "news": []
+    },
+    "263750": {
+      "name": "펄어비스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "112040": {
+      "name": "위메이드",
+      "group": "섹터대표",
+      "news": []
+    },
+    "078340": {
+      "name": "컴투스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "194480": {
+      "name": "데브시스터즈",
+      "group": "섹터대표",
+      "news": []
+    },
+    "105560": {
+      "name": "KB금융",
+      "group": "섹터대표",
+      "news": []
+    },
+    "055550": {
+      "name": "신한지주",
+      "group": "섹터대표",
+      "news": []
+    },
+    "086790": {
+      "name": "하나금융지주",
+      "group": "섹터대표",
+      "news": []
+    },
+    "316140": {
+      "name": "우리금융지주",
+      "group": "섹터대표",
+      "news": []
+    },
+    "138040": {
+      "name": "메리츠금융지주",
+      "group": "섹터대표",
+      "news": []
+    },
+    "039490": {
+      "name": "키움증권",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "키움증권 “전면파업에 인건비 부담까지… 삼성바이오로직스 수익성 시험대” - 핀포인트뉴스",
+          "summary": "키움증권 “전면파업에 인건비 부담까지… 삼성바이오로직스 수익성 시험대”&nbsp;&nbsp;핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBucVl3eHo1ZFhGN1owV1lvVjI0c2FFcUg3dHpBVmpwOER1dlhjSkowYXMzeE1TTlMtb01nc3BkVEZ1V0U1NUYxaDU3d0JtdjM3TkJwSWxxQUhuQ3hkNkdwdmoza2Yxb2JuMWFEeDR6aTJBOUXSAXdBVV95cUxQVzJQaGhmd0VZbW5SSWtYWi16LVRhdHFDLVExeDk3Mk1IUFlqbFBzc2NWYjhrRmtIbGxwUmMxQXhHYThpcnF2TGUwSkNmZkNSMDVyOXRWaklBRThsQ0NpWWl0RmNOaFB0bnVQTE1JYjczNjNSLXI0MA?oc=5",
+          "date": "Sun, 10 May 2026 06:10:04 GMT"
+        },
+        {
+          "title": "키움증권, 텔레그램·MTS·유튜브로 시황·투자정보 실시간 전달 - 네이트",
+          "summary": "키움증권, 텔레그램·MTS·유튜브로 시황·투자정보 실시간 전달&nbsp;&nbsp;네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUGtpS2tLZkg2TWI1Yl9tdjlBRkQwX1ZOOG1JUmc2aGUzMkYxVEpKUFdIbkVXNEFNSGZHMzA0TUNpbnVsdnBURGtBNDMyaXB4Y19Z?oc=5",
+          "date": "Sun, 10 May 2026 07:04:00 GMT"
+        },
+        {
+          "title": "또 깜짝 실적…목표주가 70만원까지 - 한국경제",
+          "summary": "또 깜짝 실적…목표주가 70만원까지&nbsp;&nbsp;한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRnQ3Nm41RGh0d1dxLVZQYmdyYVJfa1FLaE1OVWhodnpGY0RQNmRXUHpSWW40TVJJb293QVlEeEpvR3NKNTkxLXotRFhkY3R0V1NReHBlbmtHUdIBVEFVX3lxTFBMZ1pkZHhYYWZId1ZFbm5HenJENG9CVmxGTzIzMnM2SWR4cENMSGZsUFBseUkyWENEUFZCcnhvRndkTXExR3Uya0ZjWDdzMFRSOXdMcg?oc=5",
+          "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "NH證 “키움증권, 외국인통합계좌 시스템 구축 단계…리테일 1위 입지 공고화” - 조선비즈 - Chosunbiz",
+          "summary": "NH證 “키움증권, 외국인통합계좌 시스템 구축 단계…리테일 1위 입지 공고화” - 조선비즈&nbsp;&nbsp;Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEtqYTJuc2tyQTlLQTBZaFZzeElEdVFaeEt5X2ZwcEdvTEZlNHNhYW1hMUtaLWFyU2F2S0dObDNUbmcxcGhzMkRrQ2lvTkZtLVl5RmR3UUc1QlNIWmJHdEp2ZHQ3YXRIMEdjWDRtbDU4SFRHZWxvZ29VMExsampuYi1NWU90U2dY0gGcAUFVX3lxTE44WVZIRlBvVy13RnJzcTcyNy1HYzBxc2NKb0RlTGFQVk1XTUFteHA4M1pfNVJZbDNINE5zSnFndHRsbnA0RmhJQzBSZWpnMDdvYzNvQmVxazZBV2xIeDV5eDY1YjBiRTdQTWR2X2tmQnZ0bzBXRUJqOEFKeVpiRGVheWdod0VPTlY3NFUxUjVmMHdmRkJ3RnBqTUJQNQ?oc=5",
+          "date": "Thu, 07 May 2026 23:27:00 GMT"
+        },
+        {
+          "title": "키움증권, 연내 해외 개인투자자 유입으로 리테일 1위 다지기 - 알파경제",
+          "summary": "키움증권, 연내 해외 개인투자자 유입으로 리테일 1위 다지기&nbsp;&nbsp;알파경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aN1VlLVh1NDRLbXpnSm1HZmdGaXU0MUhMWWZFYkNkM29KZFBqdUJaX3V3WGVsc29rVGN1bWNQVjNya21jWWJQSjJQbzJtT19UTmNLcXNQaGVycHA2a1RDb2tRVTh5MzJlRHcyOEFn0gFuQVVfeXFMT1o3VWUtWHU0NEttemdKbUdmZ0ZpdTQxSExZZkViQ2Qzb0pkUGp1QlpfdXdYZWxzb2tUY3VtY1BWM3JrbWNZYlBKMlBvMm1PX1ROY0txc1BoZXJwcDZrVENva1FVOHkzMmVEdzI4QWc?oc=5",
+          "date": "Fri, 08 May 2026 01:26:25 GMT"
+        },
+        {
+          "title": "외국인 통합계좌 시대 열렸다...삼성·키움증권 등 시장 선점 경쟁 본격화 - 녹색경제신문",
+          "summary": "외국인 통합계좌 시대 열렸다...삼성·키움증권 등 시장 선점 경쟁 본격화&nbsp;&nbsp;녹색경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BS2RnX1Ntb2d1TzVTbUFaZjZaQzlEbzBPdDY5WkZhUjNYQllhMTNiN3RuUWppNTM4ck9rUkk3X0VXY2FBVk9vb3ViTUdweTF1NmdOcGE2VTRTd0ozcGdORnN1aHZ5NTlI?oc=5",
+          "date": "Thu, 07 May 2026 05:03:48 GMT"
+        },
+        {
+          "title": "[버핏 리포트] 키움증권, 해외 개인투자자 유입으로 리테일 1위 굳힌다 – NH - 버핏연구소",
+          "summary": "[버핏 리포트] 키움증권, 해외 개인투자자 유입으로 리테일 1위 굳힌다 – NH&nbsp;&nbsp;버핏연구소",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FTzVzcmJGcVZrbi1Cekl6ZlU2NDZEUlJRLVJCbUFVNm9tdW5IWm1YeGZmdTJGX091QVYxYzYwTjhralV2R1NNeVQ1THFXZTNBWXQ0V0F5Q1BUbGV1bGtydEJn?oc=5",
+          "date": "Fri, 08 May 2026 00:07:08 GMT"
+        },
+        {
+          "title": "\"POSCO홀딩스, 아르헨티나 리튬 흑자.. 목표주가 39.1% 상향, 65만 원\"키움증권 - 글로벌이코노믹",
+          "summary": "\"POSCO홀딩스, 아르헨티나 리튬 흑자.. 목표주가 39.1% 상향, 65만 원\"키움증권&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHJpcHMzWVRkVU9KVUR0OVZaQXRaSlB6ZTk5S2szWUhiMmdEajl1aVBrUjJiSDd1WlZkQm1UVnV0T3k1cGJlR0JiQjhNQXkwZUQ0aVpzWFpkSWNKTGZpaHNFZThWYU1kYVNEbU8wbW4yeV9QMVVoTFBlc2lkQVg2bG51dDhKaW5R?oc=5",
+          "date": "Thu, 07 May 2026 01:11:41 GMT"
+        }
+      ]
+    },
+    "071050": {
+      "name": "한국금융지주",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005940": {
+      "name": "NH투자증권",
+      "group": "섹터대표",
+      "news": []
+    },
+    "032830": {
+      "name": "삼성생명",
+      "group": "섹터대표",
+      "news": []
+    },
+    "030200": {
+      "name": "KT",
+      "group": "섹터대표",
+      "news": []
+    },
+    "032640": {
+      "name": "LG유플러스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "189300": {
+      "name": "인텔리안테크",
+      "group": "섹터대표",
+      "news": []
+    },
+    "034120": {
+      "name": "SBS",
+      "group": "섹터대표",
+      "news": []
+    },
+    "329180": {
+      "name": "HD현대중공업",
+      "group": "섹터대표",
+      "news": []
+    },
+    "042660": {
+      "name": "한화오션",
+      "group": "섹터대표",
+      "news": []
+    },
+    "079550": {
+      "name": "LIG넥스원",
+      "group": "섹터대표",
+      "news": []
+    },
+    "012450": {
+      "name": "한화에어로스페이스",
+      "group": "섹터대표",
+      "news": []
+    },
+    "103140": {
+      "name": "풍산",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "풍산, 회사채 수요예측에 3300억 뭉칫돈…한온시스템도 1.6조 흥행 - 파이낸셜뉴스",
+          "summary": "풍산, 회사채 수요예측에 3300억 뭉칫돈…한온시스템도 1.6조 흥행&nbsp;&nbsp;파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MUkxBamR0akxUMkFGTDVubnJTVjlIM2plRkh5Y3d5ZEVpM2JFYmhfajVTN0JfYm1CYldBYnhjNUM0N1o4VjYxZVlpdHlubXpDYzQ4bldhQzZmZ9IBXkFVX3lxTE90YzBISkNPam93ZGllNWhfZGF2cExCTFNuRnJJc2dNR2J6aVVRUzhVaUxiSzYtN3dYbGttb1ZqZ2RSZ193Y0pHb2tDb00xMllnVTl4c1BTWnA1ZjhPUHc?oc=5",
+          "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "풍산, 탄약사업부 매각 돌연 철회…류진 회장 속내는 '가격' - 딜사이트",
+          "summary": "풍산, 탄약사업부 매각 돌연 철회…류진 회장 속내는 '가격'&nbsp;&nbsp;딜사이트",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kSUNjRmNvcmhoU2F2TExNTVIzVHA0X2htVndQbGlkQWpEQ0g4dHcyX3ljMzlmSzl1WlRpdmlDSjJ1LTBhNGdHRVJ2UXZhT28?oc=5",
+          "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "풍산홀딩스 투자분석 - 주달",
+          "summary": "풍산홀딩스 투자분석&nbsp;&nbsp;주달",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rWnpnT1FkMjZ5emVPNlhsSFYxQ2RLRVpoUGl5aHVkOVhQemRZek9LQTBwQWtENEhzZzZjOHA1NkNuR0hHTGJnRnNwaWdQTzRLRGtrc1lpZGRhM3B1azNuUHVUUEtuVXRhRzlPVzYyZ2JuLVk?oc=5",
+          "date": "Fri, 08 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "경제부총리 \"풍산, 본사 지방 이전 추진 중\" - 조선일보",
+          "summary": "경제부총리 \"풍산, 본사 지방 이전 추진 중\"&nbsp;&nbsp;조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGVIajJMNDh5SmhvVzFaYlYxaFJUUFdMeDVReDByVUw0MUJqSDljZXVLQkFpaE9FdmhSOWRVaE10dDBsdUROZnp6UF83aXNNa3o1YnZPejZFYi1OMkROQkRsUE5iS1RTLVhhRVk4dzMwUHFjYmVQNFg0QldwRmJQNGRCcTJjMkdjRk5EcGpycw?oc=5",
+          "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "방산 매각 재추진설 '쏠쏠'..그런데 물적분할 or 영업양수도는 웬말? [이슈체크] - MTN 머니투데이방송",
+          "summary": "방산 매각 재추진설 '쏠쏠'..그런데 물적분할 or 영업양수도는 웬말? [이슈체크]&nbsp;&nbsp;MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Tl9ldmJiOGtYUmttOEU5ZWxMckt4X3I4RTVhcGtPOEpraGFnRGpGcGFPTDBtX2ctT1FFRVVDeHA4QVZyQ0h0dVByN1BKazNzWHFQeDBqcURScGdqWHJwZ1BReW4?oc=5",
+          "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "탄력받은 K-방산, 1분기 실적 질주…풍산은 주춤 - 지디넷코리아",
+          "summary": "탄력받은 K-방산, 1분기 실적 질주…풍산은 주춤&nbsp;&nbsp;지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSmJPSWljNnJ3OXFwZXd6OXh4bUZnU0hSamVzRHBEaUNneUJjVDlJOFBvTUg0dlhWR29DUTVWbC1vWVNENFEzX2NTQVhkM3Q1RkNKd3VR?oc=5",
+          "date": "Fri, 08 May 2026 07:02:47 GMT"
+        },
+        {
+          "title": "1.5조 빅딜 좌초, 한화·풍산 '동상이몽'이었나 - 미래한국",
+          "summary": "1.5조 빅딜 좌초, 한화·풍산 '동상이몽'이었나&nbsp;&nbsp;미래한국",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92NHc2WnVMbmRma2hNeF8xby1rZW94YW55SXk0VnpSMWxWb2xSbVgzSW5IaHNaeHhPdWZqQTluUXZoa1Etd21HbUJXU1ZyVk9nYjBUdm9tdVZHb1pmRzhvZXEydWZnVnVUUVotSDVDaGlRZw?oc=5",
+          "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "[단독]\"이번엔 진짜 한다\" 풍산, 본사 지방 이전 추진…국가균형 발전에 힘 보탠다 - v.daum.net",
+          "summary": "[단독]\"이번엔 진짜 한다\" 풍산, 본사 지방 이전 추진…국가균형 발전에 힘 보탠다&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zbU5JcnRpdF9NTmlfbjNoRmpsNkR6TXM4ODBOOC13NUFXZ3U2NzNibVhDRU5IOWJlTlZ5TUR1SmhNM3lNangzS3M1NWJCWlU?oc=5",
+          "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "010140": {
+      "name": "삼성중공업",
+      "group": "섹터대표",
+      "news": []
+    },
+    "010620": {
+      "name": "현대미포조선",
+      "group": "섹터대표",
+      "news": []
+    },
+    "051910": {
+      "name": "LG화학",
+      "group": "섹터대표",
+      "news": []
+    },
+    "011170": {
+      "name": "롯데케미칼",
+      "group": "섹터대표",
+      "news": []
+    },
+    "011790": {
+      "name": "SKC",
+      "group": "섹터대표",
+      "news": []
+    },
+    "298020": {
+      "name": "효성티앤씨",
+      "group": "섹터대표",
+      "news": []
+    },
+    "120110": {
+      "name": "코오롱인더",
+      "group": "섹터대표",
+      "news": []
+    },
+    "006650": {
+      "name": "대한유화",
+      "group": "섹터대표",
+      "news": []
+    },
+    "285130": {
+      "name": "SK케미칼",
+      "group": "섹터대표",
+      "news": []
+    },
+    "010060": {
+      "name": "OCI",
+      "group": "섹터대표",
+      "news": []
+    },
+    "298050": {
+      "name": "효성첨단소재",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005490": {
+      "name": "POSCO홀딩스",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "\"POSCO홀딩스, 아르헨티나 리튬 흑자.. 목표주가 39.1% 상향, 65만 원\"키움증권 - 글로벌이코노믹",
+          "summary": "\"POSCO홀딩스, 아르헨티나 리튬 흑자.. 목표주가 39.1% 상향, 65만 원\"키움증권&nbsp;&nbsp;글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHJpcHMzWVRkVU9KVUR0OVZaQXRaSlB6ZTk5S2szWUhiMmdEajl1aVBrUjJiSDd1WlZkQm1UVnV0T3k1cGJlR0JiQjhNQXkwZUQ0aVpzWFpkSWNKTGZpaHNFZThWYU1kYVNEbU8wbW4yeV9QMVVoTFBlc2lkQVg2bG51dDhKaW5R?oc=5",
+          "date": "Thu, 07 May 2026 01:11:41 GMT"
+        },
+        {
+          "title": "\"POSCO홀딩스, 리튬 사업 흑자전환 가시권…목표가↑\"-키움 - v.daum.net",
+          "summary": "\"POSCO홀딩스, 리튬 사업 흑자전환 가시권…목표가↑\"-키움&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VYS0yZVRCTnUtbTZLTXkyekpYamJXSDN6ZkZtR1ktZ21OZzZWLUs5cWgzclhscXBwc19NcjNmTmJscjI2TmFwa1VCdVFpNWc?oc=5",
+          "date": "Wed, 06 May 2026 23:37:04 GMT"
+        },
+        {
+          "title": "POSCO홀딩스: 철강의 시대를 지나 리튬의 시대가 시작됐다 - 데일리바이트(DAILY BYTE)",
+          "summary": "POSCO홀딩스: 철강의 시대를 지나 리튬의 시대가 시작됐다&nbsp;&nbsp;데일리바이트(DAILY BYTE)",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZ0JZQm5MRUdCZ3JlOTRqdDJrSE14Vl9OSm1RM2lyd3AtSmVBVFBRRUg4dmlMWlJYTGF6d2s2R09JZE0zOU0wOHN2TG53OEQyczhnc0xabjY0MGRIWXhQZ0IyNFZWRWlaUEJjUl9YVQ?oc=5",
+          "date": "Thu, 07 May 2026 05:13:51 GMT"
+        },
+        {
+          "title": "POSCO홀딩스(포스코홀딩스) 주가 4%↑…전일 수급은? - CBC뉴스",
+          "summary": "POSCO홀딩스(포스코홀딩스) 주가 4%↑…전일 수급은?&nbsp;&nbsp;CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14N1FHeUEwN0lna3dYNjZQRVZKSHppR1BkaERrelVqWFR6VUhBbUlFX1N5XzExSGcwTlFDMmpaVmlyRFg0YWY5ZWVYcVpmWElJSGNFVzVrWXdpSmVkMHVHdnp6VQ?oc=5",
+          "date": "Thu, 07 May 2026 03:59:00 GMT"
+        },
+        {
+          "title": "POSCO홀딩스 주가 50만 원 넘었다 - thecommoditiesnews.com",
+          "summary": "POSCO홀딩스 주가 50만 원 넘었다&nbsp;&nbsp;thecommoditiesnews.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92aEx5bTlneFVlUjhGNjF0akhZZkxYUkJqdVE3dGdYa3d0M2tNQzhsc2JBWm9USFdUX09NVTlTMGtnaVNhTTFBa2VoN1FlV0lBaTEzbm9FbVNiRHd6aWxyaENSdEtqS3VxNmVpUElUbFgxWXhRelZj?oc=5",
+          "date": "Mon, 04 May 2026 06:13:09 GMT"
+        },
+        {
+          "title": "철강보다 리튬이 살렸다… POSCO홀딩스 실적 반전의 결정적 이유 보니 - 핀포인트뉴스",
+          "summary": "철강보다 리튬이 살렸다… POSCO홀딩스 실적 반전의 결정적 이유 보니&nbsp;&nbsp;핀포인트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05STlMUEFjYXRDVWlvSWl4YUdueVpFM1daMzNpWXlLcHFJTTY3dFB2Mk9JV1hIWDA1ZW5NSXJFdzcwMVBnTTBRMXQ0OG9SUTBNZkZHTGtScEtNOUMwRm1OTXRGNmRfeVdfQWlzMURTMWJCVFXSAXdBVV95cUxPNF9tV2x5MWViaVlJNGdka3lja2lMZ3FTTmVkOW9zbUFURjhlTThQak9qdnN0TkZ5U3FHWUJPV05oN0ZZUG5uQW1kd0dZR2ZKa3JYWERvWmY0XzVsMWsxRHJjclNxUnFtTHY4UVZBQVpNb2FzMUFacw?oc=5",
+          "date": "Sat, 09 May 2026 05:44:35 GMT"
+        },
+        {
+          "title": "[헬로스톡] 5/4 주목할 종목 : 삼성전기·POSCO홀딩스·삼성전자·NAVER - 헬로티",
+          "summary": "[헬로스톡] 5/4 주목할 종목 : 삼성전기·POSCO홀딩스·삼성전자·NAVER&nbsp;&nbsp;헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRGlMYkxfYXF6MlpXd1FvQU1ORkJkeUhsRGVPYUl0Q3VfWExFOUZjWTVJSW01N3A3WjJmdC1vd1Blc0xNdnN5dm5IaTNEUU9vd1BYYk1jczJsRGNybW0w?oc=5",
+          "date": "Mon, 04 May 2026 13:09:24 GMT"
+        },
+        {
+          "title": "\"이제는 70만원\"…리튬 어닝 서프라이즈에 러브콜 쏟아진 포스코홀딩스 - 연합인포맥스",
+          "summary": "\"이제는 70만원\"…리튬 어닝 서프라이즈에 러브콜 쏟아진 포스코홀딩스&nbsp;&nbsp;연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSDZpMndFblVTTDh0bGtMd2pnbkZWdi1fN0g5YmVDSE1sQkN6clBsYmJIajBPRUJ3VkMxblZfeWxMdHIxQWtiVGtzQzZORW50RHUxUllYMFBfNDE2TWQ0UkY1czZKYzNhUEhTZ3hGR0w?oc=5",
+          "date": "Wed, 06 May 2026 00:59:20 GMT"
+        }
+      ]
+    },
+    "004020": {
+      "name": "현대제철",
+      "group": "섹터대표",
+      "news": []
+    },
+    "058430": {
+      "name": "포스코스틸리온",
+      "group": "섹터대표",
+      "news": []
+    },
+    "016380": {
+      "name": "KG스틸",
+      "group": "섹터대표",
+      "news": []
+    },
+    "000670": {
+      "name": "영풍",
+      "group": "섹터대표",
+      "news": [
+        {
+          "title": "영풍문고, 서울국제정원박람회 맞춰 서울숲에 기부정원 조성 - 매일신문",
+          "summary": "영풍문고, 서울국제정원박람회 맞춰 서울숲에 기부정원 조성&nbsp;&nbsp;매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kc0FOTlpfa25aRTdaZVNOaWRsQWY5SHJNSkRaRzFWdGlGZmVSM1ZJUEx4WXRaRU14cXpJR19od3ZpODJtM2NIWjl4VHRuSmpiaVZCcnRzejhkZDdqdnNmaGZ3?oc=5",
+          "date": "Sun, 10 May 2026 05:11:53 GMT"
+        },
+        {
+          "title": "영풍 석포제련소, 정신건강·안전보건 통합 관리 강화…지역사회 연계 교육 확대 - 철강금속신문",
+          "summary": "영풍 석포제련소, 정신건강·안전보건 통합 관리 강화…지역사회 연계 교육 확대&nbsp;&nbsp;철강금속신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GQUpYQXZVdWxJNjJqYTJHd19fRWVMZnF4SjdYQ3Z2NEgtOHVVeUpNdkNNREJGazNEakxTb0lBMzlRdFJwM1lFZGhjZmptLUI3dTRDS2VPQjdKdXY1cHd0SktHXzNJbnpaSUE?oc=5",
+          "date": "Thu, 07 May 2026 00:30:59 GMT"
+        },
+        {
+          "title": "영풍-MBK 계약서 공방 계속…법원 판단 두고 양측 해석 제각각 - 지디넷코리아",
+          "summary": "영풍-MBK 계약서 공방 계속…법원 판단 두고 양측 해석 제각각&nbsp;&nbsp;지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WT05SMi1xVFBGemphUUljLXRGYTVPNEJTeU9aUmNtOXczS2ROTFZHRXpnUTFtdUwxU2g3V3U2ckVHaDdMeHhNdTFoS2RobllVZkZoZGJn?oc=5",
+          "date": "Tue, 05 May 2026 12:13:00 GMT"
+        },
+        {
+          "title": "영풍문고, 서울숲에 '기부 정원' 개장 - fetv.co.kr",
+          "summary": "영풍문고, 서울숲에 '기부 정원' 개장&nbsp;&nbsp;fetv.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hcGlHUVlRYU1fWjFJTlctZE4xR0RBeUJBS0dwcGx1U09JdFZkSVNNSmZxaExlVGNLUURXTFpva3JiQ21xNGxmZGxxOXJQUXNUanNCUUNBbHZEeWxzYkZUS25BQk4tUU1K?oc=5",
+          "date": "Fri, 08 May 2026 05:31:34 GMT"
+        },
+        {
+          "title": "영풍문고, 서울숲 정원박람회에 기부정원·야외도서관 조성 - 스마트투데이",
+          "summary": "영풍문고, 서울숲 정원박람회에 기부정원·야외도서관 조성&nbsp;&nbsp;스마트투데이",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iVDNyT3M2OGl4aWZiSC1DQUpjVjIyUjRfZFlUYzJLT2ZIcHFHblFndmJFYmFRM3d1VE1nb1J2OVRuRlI3RHBaeGtqRTNRVUhqa1I1bUU5S0swSzJJa3pv?oc=5",
+          "date": "Fri, 08 May 2026 06:02:00 GMT"
+        },
+        {
+          "title": "영풍문고, 시민참여형 기부정원·야외도서관 운영 - 알파경제",
+          "summary": "영풍문고, 시민참여형 기부정원·야외도서관 운영&nbsp;&nbsp;알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiNDNMblVMcU5HRkZzU2lpMTBsamkzQ2FCUXVjNGlCR0N4aW5YVzVMR0FMYTN6RDkyRWFMOHhWcHFodzZqcXVLMGpmdi1YQjVzU2VIY21qSUFwbGFWSWfSAW5BVV95cUxPUzY1RG11amJHbzZtR2JVblhYeVNMVFRrTnVXSXNpWkN2dXp3N3lpNTRlbFdrR2MtSnRHVGYwUGR3R3Z6WFRmZHd2N2l0aU9SakRGM3g0RUlxNkRhYXJYTlRPVW52aUVTanROam93dw?oc=5",
+          "date": "Fri, 08 May 2026 04:39:13 GMT"
+        },
+        {
+          "title": "법원, 영풍·MBK 경영협력 계약서 제출명령 불복 항고 기각 - v.daum.net",
+          "summary": "법원, 영풍·MBK 경영협력 계약서 제출명령 불복 항고 기각&nbsp;&nbsp;v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNUGVuTFJUaXJmVm9CRjh5X2ZpM0NoakNSTlFFRmQzeHE4S2ZmeGF6Y3g5eDRvSFJuWHBmbjl3NmFYcXRJOUxaWFQtcFpjaWc?oc=5",
+          "date": "Tue, 05 May 2026 08:37:33 GMT"
+        },
+        {
+          "title": "영풍문고, 서울국제정원박람회에 기부정원 '영감이 필요한 순간' 개장 - 파이낸셜신문",
+          "summary": "영풍문고, 서울국제정원박람회에 기부정원 '영감이 필요한 순간' 개장&nbsp;&nbsp;파이낸셜신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kSGVicTBobEhMWU1yRkZwdnhHeVd0SXNtVk8zcHh0LUFaelpNc3FjQmhPTUN1ZXdhNllzdHFuc09XYVVwaXJTX3hxaFhLT2VFWE1CZ3dVbDRnUFZiZ2NVa0V6WDQyX1FGRGJJ?oc=5",
+          "date": "Fri, 08 May 2026 07:07:04 GMT"
+        }
+      ]
+    },
+    "097950": {
+      "name": "CJ제일제당",
+      "group": "섹터대표",
+      "news": []
+    },
+    "271560": {
+      "name": "오리온",
+      "group": "섹터대표",
+      "news": []
+    },
+    "004370": {
+      "name": "농심",
+      "group": "섹터대표",
+      "news": []
+    },
+    "139480": {
+      "name": "이마트",
+      "group": "섹터대표",
+      "news": []
+    },
+    "004170": {
+      "name": "신세계",
+      "group": "섹터대표",
+      "news": []
+    },
+    "023530": {
+      "name": "롯데쇼핑",
+      "group": "섹터대표",
+      "news": []
+    },
+    "069960": {
+      "name": "현대백화점",
+      "group": "섹터대표",
+      "news": []
+    },
+    "007070": {
+      "name": "GS리테일",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005180": {
+      "name": "빙그레",
+      "group": "섹터대표",
+      "news": []
+    },
+    "005300": {
+      "name": "롯데칠성",
+      "group": "섹터대표",
+      "news": []
+    },
+    "317330": {
+      "name": "덕산테코피아",
+      "group": "관심5",
+      "news": [
+        {
+          "title": "덕산테코피아, 1분기 배터리 핵심소재 사업 매출 18배 증가 - 디일렉",
+          "summary": "덕산테코피아, 1분기 배터리 핵심소재 사업 매출 18배 증가&nbsp;&nbsp;디일렉",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMW5JNFROeUxYYkF4b3JDNEYxbGZhRi1tWHo1ekZGblFORk5WZ2x5OUxTRGlwXzZxY0pydlBvTktBeDR6TENqMzJISVdTTHo4bHpxSFVmUGZ0djMyaGw0QkdieWwzUQ?oc=5",
+          "date": "Fri, 08 May 2026 09:17:04 GMT"
+        },
+        {
+          "title": "[1% 초고수의 선택] '덕산테코피아' 사고 'SK스퀘어' 팔았다 - ebn.co.kr",
+          "summary": "[1% 초고수의 선택] '덕산테코피아' 사고 'SK스퀘어' 팔았다&nbsp;&nbsp;ebn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iMzVwd3h5MW5IYXdweDNnbWJ3a0d5UlduRkFOejhVLW02b3NFc0RmYWZvZVNVM2ZoX2x4NXdGbEhTZVRFSHZDWkxtQ0RLcUs3dHduSVV4dFRTWEFPdFhKaVM0Q1JKUzFo?oc=5",
+          "date": "Wed, 06 May 2026 07:54:38 GMT"
+        },
+        {
+          "title": "덕산테코피아, 2026년 1분기 실적 발표...매출 391억 원·영업손실 104억 원 - Investing.com 한국어",
+          "summary": "덕산테코피아, 2026년 1분기 실적 발표...매출 391억 원·영업손실 104억 원&nbsp;&nbsp;Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YN3lIVnFwX3BNSjVXQTZDWThFQ0hwMjRiRnpCN3F3WlhBMGFqMDVKdWR1T3ZpZ3hYYVkxLWNLRWtDWVpiUmNvWHVoLWFzYVN0a2pyYXVQUkttRTJwWkt3UkQ3V0tKalJ5Wlppbm1hck9ZM1U?oc=5",
+          "date": "Fri, 08 May 2026 07:31:00 GMT"
+        },
+        {
+          "title": "'덕산테코피아' 52주 신고가 경신, 반등 국면 진입 - 한국경제",
+          "summary": "'덕산테코피아' 52주 신고가 경신, 반등 국면 진입&nbsp;&nbsp;한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcWpSVnlqX1VWS1BpbF9KUVJVem1OUnB2XzNPRFlwWDdBSjdOc0xZajZwUkdqZWREUFBzbWJKUlVzZHgyeGpWTlNzSG9uSmZ1UmJfM3hFdmpYZ9IBVEFVX3lxTE5rQXh0WmV6NFRXUE9lVEplU1NuQWFMU1VqbEhhY0pUNVlCc25raGQwZTQxRTMxN1FXTTh5LUhRaVFZNUQwclRQbTRjdDZNZm0ydFBMWA?oc=5",
+          "date": "Thu, 07 May 2026 00:12:25 GMT"
+        },
+        {
+          "title": "덕산테코피아, +7.17% 52주 신고가 - 조선비즈 - Chosunbiz",
+          "summary": "덕산테코피아, +7.17% 52주 신고가 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXlsUUo1RmpPLURaOE9kR1FXY0NlYVdFeUtxV3dNRUZoOUtmbDdJWDhqa1NfMDV5b2xMR0VLcDR1b3I3emFEQVpDcVozc2lKMHRUMlB4bEFIUjRlQS1qMlBwdU9xUDF1SUUyaS0zczhiU3U0UTdzWVhrNE40cnhKYVktZ9IBlwFBVV95cUxOVWlwVDhLTzBYTEx1ZE5HVGExMWxzZVhGdlpwWWdlSUoyWDByMlFuZS13NWJkTE1xcDlQeHQtZHNWOUtnb3hDb3lpVG5SQUh0cU1BSk80cVBIb2FiOXphV2JSeXY0ekRHcWt6Yk1TX1JKeXJLVDIzNmdTTUhQT0pSVEdDbFdjT1NGc0xGNE1MSnQyUE05RTRj?oc=5",
+          "date": "Wed, 06 May 2026 01:56:00 GMT"
+        },
+        {
+          "title": "실적 악화 속 덕산테코피아, 오너 경영 내려놓다 - 딜사이트",
+          "summary": "실적 악화 속 덕산테코피아, 오너 경영 내려놓다&nbsp;&nbsp;딜사이트",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqUGhLSk5KbmxKZkNjVGhvNGY1bkdhSUpJbG96Mll4X2w5aGNWNXpPQkZWamRPaG5lUWROX1paM1BReTNvVVNLUWRMVkJRb00?oc=5",
+          "date": "Mon, 08 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "[클릭 e종목]\"덕산테코피아, 본업 회복에 이차전지까지…실적·주가 반등 원년\" - 아시아경제",
+          "summary": "[클릭 e종목]\"덕산테코피아, 본업 회복에 이차전지까지…실적·주가 반등 원년\"&nbsp;&nbsp;아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DcFp0NkZTVDVBZkwycDRabUhwWk80alE5UGVyTkVFOWdqNkRUSF9qMG1BWGlwR0xKcnZyOHp1dVh1bnUzSm9meEFSY2o3M0hKOFlJcmo1TmFHOUJJQlp3QQ?oc=5",
+          "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "덕산테코피아 투자분석 2026. 04. 22 - 주달",
+          "summary": "덕산테코피아 투자분석 2026. 04. 22&nbsp;&nbsp;주달",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuaVJuNUNnYTBzQzNhb3FaakE2X1JkRDUxVms3am5YYWdOOUo3MGRuUUhGcjNjRFkzUXRNcVZxeHNrb0ZCczBHTDU5aTlJdVJRcnNmdjBVVE5xdkdYcDl6SEV4eUt2Ql9IdUV6TmFmSWZaejQ?oc=5",
+          "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "277880": {
+      "name": "티에스아이",
+      "group": "관심5",
+      "news": []
+    }
+  }
+}

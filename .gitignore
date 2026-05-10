@@ -1,0 +1,32 @@
+# 환경 변수 및 API 키
+.env
+.env.local
+
+# Streamlit secrets (Cloud 배포 시 대시보드에서 설정)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 로그
+*.log
+
+# 데이터는 클라우드 배포를 위해 git에 포함됨
+# (개인용 비공개 저장소이므로 OK. 공개 저장소면 .gitignore에 'data/' 추가 필수)
+# data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
