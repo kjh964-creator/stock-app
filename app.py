@@ -104,16 +104,36 @@ st.markdown("""
 <style>
 /* ───── 모바일 최적화 (폰 화면 768px 이하) ───── */
 @media (max-width: 768px) {
-    /* 메인 컨테이너 — 가로 패딩 줄여서 화면 폭 최대 활용 */
+    /* ★ 가장 중요 — 가로 스크롤 절대 금지 (전체 화면 밖으로 못 나가게) */
+    html, body {
+        overflow-x: hidden !important;
+        max-width: 100vw !important;
+    }
+    [data-testid="stAppViewContainer"],
+    [data-testid="stMain"],
+    .main,
+    .stApp {
+        overflow-x: hidden !important;
+        max-width: 100vw !important;
+    }
+
+    /* 메인 컨테이너 — 가로 패딩 최소화 */
     .main .block-container {
-        padding: 0.6rem 0.4rem !important;
+        padding: 0.4rem 0.3rem !important;
         max-width: 100% !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    /* 모든 요소 box-sizing 강제 — 폭 계산 안 깨지게 */
+    .main * {
+        box-sizing: border-box !important;
     }
 
     /* 헤더 작게 */
-    h1 { font-size: 1.4rem !important; margin: 0.3rem 0 !important; }
-    h2 { font-size: 1.15rem !important; margin: 0.6rem 0 0.4rem !important; }
-    h3 { font-size: 1.0rem !important; margin: 0.4rem 0 0.3rem !important; }
+    h1 { font-size: 1.3rem !important; margin: 0.3rem 0 !important; }
+    h2 { font-size: 1.1rem !important; margin: 0.5rem 0 0.3rem !important; }
+    h3 { font-size: 0.95rem !important; margin: 0.4rem 0 0.2rem !important; }
 
     /* 탭 — 가로 스크롤 가능하게 */
     [data-testid="stTabs"] [role="tablist"] {
@@ -122,52 +142,29 @@ st.markdown("""
         scrollbar-width: thin;
     }
     [data-testid="stTabs"] button[role="tab"] {
-        font-size: 0.85rem !important;
+        font-size: 0.82rem !important;
         padding: 0.4rem 0.5rem !important;
         white-space: nowrap !important;
     }
 
-    /* 버튼 터치 친화적 */
-    .stButton > button {
-        min-height: 38px !important;
-        padding: 0.4rem 0.5rem !important;
-        font-size: 0.88rem !important;
-    }
-
-    /* 셀렉트박스/입력 */
-    [data-baseweb="select"] {
-        font-size: 0.88rem !important;
-    }
-    [data-testid="stTextInput"] input,
-    [data-testid="stTextArea"] textarea {
-        font-size: 0.9rem !important;
-    }
-
-    /* 캡션 작게 */
-    [data-testid="stCaptionContainer"] {
-        font-size: 0.78rem !important;
-    }
-
-    /* 마크다운 텍스트 */
-    [data-testid="stMarkdownContainer"] p {
-        font-size: 0.9rem !important;
-        line-height: 1.45 !important;
-    }
-
-    /* 한 줄 컬럼 행 — 가로 유지 (스택 방지) */
+    /* ★ 컬럼 행 — 폭 고정 + wrap 허용 (화면 밖으로 못 나가게) */
     [data-testid="stHorizontalBlock"] {
-        flex-wrap: nowrap !important;
-        gap: 0.2rem !important;
-        flex-direction: row !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        flex-wrap: wrap !important;
+        gap: 0.25rem !important;
+        margin: 0 !important;
     }
 
-    /* 컬럼이 너무 좁아도 줄어들 수 있게 */
+    /* ★ 컬럼 자체 — 부모 안에 맞춰 줄어들게 */
     [data-testid="stHorizontalBlock"] > [data-testid="column"] {
         min-width: 0 !important;
         flex-shrink: 1 !important;
+        max-width: 100% !important;
+        padding: 0 0.1rem !important;
     }
 
-    /* 모바일 버튼 — 글자 더 작게, 패딩 더 좁게 */
+    /* 모바일 버튼 — 작게, 줄임표 처리 */
     .stButton > button {
         min-height: 36px !important;
         padding: 0.3rem 0.35rem !important;
@@ -176,42 +173,60 @@ st.markdown("""
         overflow: hidden !important;
         text-overflow: ellipsis !important;
         line-height: 1.1 !important;
+        width: 100% !important;
     }
 
-    /* 셀렉트박스도 작게 */
+    /* 셀렉트박스 */
     [data-baseweb="select"] {
         font-size: 0.78rem !important;
         min-height: 36px !important;
+        max-width: 100% !important;
     }
     [data-baseweb="select"] > div {
         min-height: 36px !important;
         padding: 0.2rem 0.35rem !important;
     }
 
-    /* 사이드바 너비 줄이기 (열렸을 때) */
-    [data-testid="stSidebar"] {
-        min-width: 240px !important;
-        max-width: 80vw !important;
+    /* 인풋 박스 */
+    [data-testid="stTextInput"] input,
+    [data-testid="stTextArea"] textarea {
+        font-size: 0.85rem !important;
+        min-height: 36px !important;
+        padding: 0.3rem 0.4rem !important;
+        max-width: 100% !important;
     }
 
-    /* 헤더 영역 압축 */
-    [data-testid="stHeader"] {
-        height: 2rem !important;
-    }
-
-    /* 캡션 — 모바일에서 더 작게, 줄바꿈 허용 */
+    /* 캡션 */
     [data-testid="stCaptionContainer"] {
         font-size: 0.72rem !important;
         line-height: 1.3 !important;
     }
 
-    /* 인풋 박스 압축 */
-    [data-testid="stTextInput"] input {
-        min-height: 36px !important;
-        padding: 0.3rem 0.4rem !important;
+    /* ★ 마크다운 텍스트 — 긴 단어/링크는 줄바꿈 강제 (잘림 방지) */
+    [data-testid="stMarkdownContainer"] {
+        max-width: 100% !important;
+        overflow-wrap: break-word !important;
+        word-wrap: break-word !important;
+        word-break: break-word !important;
+    }
+    [data-testid="stMarkdownContainer"] p,
+    [data-testid="stMarkdownContainer"] a,
+    [data-testid="stMarkdownContainer"] span {
+        font-size: 0.85rem !important;
+        line-height: 1.4 !important;
+        overflow-wrap: break-word !important;
+        word-break: break-word !important;
     }
 
-    /* popover 버튼도 작게 */
+    /* ★ 뉴스 한 줄 — 줄바꿈 강제 */
+    .news-row {
+        font-size: 13px !important;
+        line-height: 1.35 !important;
+        word-break: break-word !important;
+        overflow-wrap: break-word !important;
+    }
+
+    /* popover */
     [data-testid="stPopover"] button {
         min-height: 36px !important;
         font-size: 0.78rem !important;
@@ -222,6 +237,23 @@ st.markdown("""
     [data-testid="stRadio"] label,
     [data-testid="stCheckbox"] label {
         font-size: 0.82rem !important;
+    }
+
+    /* 사이드바 */
+    [data-testid="stSidebar"] {
+        min-width: 240px !important;
+        max-width: 80vw !important;
+    }
+
+    /* 헤더 압축 */
+    [data-testid="stHeader"] {
+        height: 2rem !important;
+    }
+
+    /* 이미지/iframe — 폭 넘치지 않게 */
+    img, iframe, video {
+        max-width: 100% !important;
+        height: auto !important;
     }
 }
 
