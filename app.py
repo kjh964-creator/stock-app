@@ -99,9 +99,132 @@ def _auto_cleanup_trash():
 
 _auto_cleanup_trash()
 
-# 신문 스타일 CSS + 전체 행 수평 정렬
+# 신문 스타일 CSS + 전체 행 수평 정렬 + 모바일 최적화
 st.markdown("""
 <style>
+/* ───── 모바일 최적화 (폰 화면 768px 이하) ───── */
+@media (max-width: 768px) {
+    /* 메인 컨테이너 — 가로 패딩 줄여서 화면 폭 최대 활용 */
+    .main .block-container {
+        padding: 0.6rem 0.4rem !important;
+        max-width: 100% !important;
+    }
+
+    /* 헤더 작게 */
+    h1 { font-size: 1.4rem !important; margin: 0.3rem 0 !important; }
+    h2 { font-size: 1.15rem !important; margin: 0.6rem 0 0.4rem !important; }
+    h3 { font-size: 1.0rem !important; margin: 0.4rem 0 0.3rem !important; }
+
+    /* 탭 — 가로 스크롤 가능하게 */
+    [data-testid="stTabs"] [role="tablist"] {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        scrollbar-width: thin;
+    }
+    [data-testid="stTabs"] button[role="tab"] {
+        font-size: 0.85rem !important;
+        padding: 0.4rem 0.5rem !important;
+        white-space: nowrap !important;
+    }
+
+    /* 버튼 터치 친화적 */
+    .stButton > button {
+        min-height: 38px !important;
+        padding: 0.4rem 0.5rem !important;
+        font-size: 0.88rem !important;
+    }
+
+    /* 셀렉트박스/입력 */
+    [data-baseweb="select"] {
+        font-size: 0.88rem !important;
+    }
+    [data-testid="stTextInput"] input,
+    [data-testid="stTextArea"] textarea {
+        font-size: 0.9rem !important;
+    }
+
+    /* 캡션 작게 */
+    [data-testid="stCaptionContainer"] {
+        font-size: 0.78rem !important;
+    }
+
+    /* 마크다운 텍스트 */
+    [data-testid="stMarkdownContainer"] p {
+        font-size: 0.9rem !important;
+        line-height: 1.45 !important;
+    }
+
+    /* 한 줄 컬럼 행 — 가로 유지 (스택 방지) */
+    [data-testid="stHorizontalBlock"] {
+        flex-wrap: nowrap !important;
+        gap: 0.2rem !important;
+        flex-direction: row !important;
+    }
+
+    /* 컬럼이 너무 좁아도 줄어들 수 있게 */
+    [data-testid="stHorizontalBlock"] > [data-testid="column"] {
+        min-width: 0 !important;
+        flex-shrink: 1 !important;
+    }
+
+    /* 모바일 버튼 — 글자 더 작게, 패딩 더 좁게 */
+    .stButton > button {
+        min-height: 36px !important;
+        padding: 0.3rem 0.35rem !important;
+        font-size: 0.78rem !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        line-height: 1.1 !important;
+    }
+
+    /* 셀렉트박스도 작게 */
+    [data-baseweb="select"] {
+        font-size: 0.78rem !important;
+        min-height: 36px !important;
+    }
+    [data-baseweb="select"] > div {
+        min-height: 36px !important;
+        padding: 0.2rem 0.35rem !important;
+    }
+
+    /* 사이드바 너비 줄이기 (열렸을 때) */
+    [data-testid="stSidebar"] {
+        min-width: 240px !important;
+        max-width: 80vw !important;
+    }
+
+    /* 헤더 영역 압축 */
+    [data-testid="stHeader"] {
+        height: 2rem !important;
+    }
+
+    /* 캡션 — 모바일에서 더 작게, 줄바꿈 허용 */
+    [data-testid="stCaptionContainer"] {
+        font-size: 0.72rem !important;
+        line-height: 1.3 !important;
+    }
+
+    /* 인풋 박스 압축 */
+    [data-testid="stTextInput"] input {
+        min-height: 36px !important;
+        padding: 0.3rem 0.4rem !important;
+    }
+
+    /* popover 버튼도 작게 */
+    [data-testid="stPopover"] button {
+        min-height: 36px !important;
+        font-size: 0.78rem !important;
+        padding: 0.3rem 0.4rem !important;
+    }
+
+    /* 라디오/체크박스 */
+    [data-testid="stRadio"] label,
+    [data-testid="stCheckbox"] label {
+        font-size: 0.82rem !important;
+    }
+}
+
 /* ───── 모든 가로 컬럼 행: 세로 가운데 정렬 ───── */
 [data-testid="stHorizontalBlock"] {
     align-items: center !important;
