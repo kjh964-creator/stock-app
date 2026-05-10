@@ -147,21 +147,33 @@ st.markdown("""
         white-space: nowrap !important;
     }
 
-    /* ★ 컬럼 행 — 폭 고정 + wrap 허용 (화면 밖으로 못 나가게) */
+    /* ★ 컬럼 행 — 가로 유지 강제 (Streamlit 기본 stack 무시) */
     [data-testid="stHorizontalBlock"] {
         width: 100% !important;
         max-width: 100% !important;
-        flex-wrap: wrap !important;
-        gap: 0.25rem !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 0.2rem !important;
         margin: 0 !important;
+        display: flex !important;
     }
 
-    /* ★ 컬럼 자체 — 부모 안에 맞춰 줄어들게 */
-    [data-testid="stHorizontalBlock"] > [data-testid="column"] {
+    /* ★ 컬럼 자체 — Streamlit의 width:100% 덮어쓰기 */
+    [data-testid="stHorizontalBlock"] > [data-testid="column"],
+    [data-testid="stHorizontalBlock"] > div[data-testid="column"] {
         min-width: 0 !important;
+        width: auto !important;
         flex-shrink: 1 !important;
+        flex-basis: 0 !important;
         max-width: 100% !important;
         padding: 0 0.1rem !important;
+    }
+
+    /* 컬럼 내부 콘텐츠도 폭 제한 */
+    [data-testid="stHorizontalBlock"] > [data-testid="column"] > div {
+        min-width: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
     }
 
     /* 모바일 버튼 — 작게, 줄임표 처리 */
