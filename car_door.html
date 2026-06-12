@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>토레스 도어 제어</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  body {
+    font-family:'Malgun Gothic',sans-serif;
+    background:#101418; color:#fff;
+    min-height:100vh; display:flex; flex-direction:column;
+    align-items:center; padding:24px 20px;
+  }
+  h1 { font-size:22px; margin-bottom:6px; }
+  #status {
+    font-size:14px; color:#888; margin-bottom:20px;
+    padding:6px 14px; border-radius:20px; background:#1c2228;
+  }
+  #status.on { color:#4ade80; }
+  .btn {
+    width:100%; max-width:340px; padding:22px; margin-bottom:14px;
+    font-size:20px; font-weight:700; color:#fff;
+    border:none; border-radius:16px; cursor:pointer;
+  }
+  .btn:active { transform:scale(0.97); }
+  .btn:disabled { opacity:0.35; }
+  #btnConnect { background:#185FA5; }
+  #btnUnlock  { background:#1B5E20; }
+  #btnLock    { background:#B71C1C; }
+  #btnTrunk   { background:#5D4037; }
+  #log {
+    margin-top:10px; font-size:13px; color:#666;
+    text-align:center; line-height:1.7;
+  }
+</style>
+</head>
+<body>
+
+<h1>🚗 토레스 도어</h1>
+<div id="status">연결 안 됨</div>
+
+<button class="btn" id="btnConnect">🔗 연결하기</button>
+<button class="btn" id="btnUnlock" disabled>🔓 열림</button>
+<button class="btn" id="btnLock" disabled>🔒 잠금</button>
+<button class="btn" id="btnTrunk" disabled>📦 트렁크 (3초)</button>
+
+<div id="log"></div>
+
+<script>
+const SERVICE_UUID = '12345678-1234-1234-1234-123456789abc';
+const CHAR_UUID    = '12345678-1234-1234-1234-123456789abd';
+
+let device = null;
+let charac = null;
+
+const $ = id => document.getElementById(id);
+const log = msg => { $('log').textContent = msg; };
+
+function setConnected(on) {
+  $('status').textContent = on ? '✅ CAR_DOOR 연결됨' : '연결 안 됨';
+  $('status').className = on ? 'on' : '';
+  $('btnUnlock').disabled = !on;
+  $('btnLock').disabled = !on;
+  $('btnTrunk').disabled = !on;
+  $('btnConnect').textContent = on ? '🔌 연결 끊기' : '🔗 연결하기';
+}
+
+async function connect() {
+  try {
+    log('기기 검색 중...');
+    device = await navigator.bluetooth.requestDevice({
+      filters: [{ name: 'CAR_DOOR' }],
+      optionalServices: [SERVICE_UUID]
+    });
+    device.addEventListener('gattserverdisconnected', () => {
+      setConnected(false);
+      log('연결이 끊어졌습니다');
+    });
+    const server  = await device.gatt.connect();
+    const service = await server.getPrimaryService(SERVICE_UUID);
+    charac = await service.getCharacteristic(CHAR_UUID);
+    setConnected(true);
+    log('연결 완료! 버튼을 눌러 제어하세요');
+  } catch (e) {
+    log('연결 실패: ' + e.message);
+  }
+}
+
+function disconnect() {
+  if (device && device.gatt.connected) device.gatt.disconnect();
+  setConnected(false);
+  log('연결을 끊었습니다 (자동 잠금 동작)');
+}
+
+async function send(cmd, label) {
+  if (!charac) { log('먼저 연결하세요'); return; }
+  try {
+    await charac.writeValue(new TextEncoder().encode(cmd));
+    log(label + ' 명령 전송됨 (' + new Date().toLocaleTimeString('ko-KR') + ')');
+    if (navigator.vibrate) navigator.vibrate(50);
+  } catch (e) {
+    log('전송 실패: ' + e.message);
+  }
+}
+
+$('btnConnect').onclick = () => {
+  (device && device.gatt.connected) ? disconnect() : connect();
+};
+$('btnUnlock').onclick = () => send('UNLOCK', '🔓 열림');
+$('btnLock').onclick   = () => send('LOCK', '🔒 잠금');
+$('btnTrunk').onclick  = () => send('TRUNK', '📦 트렁크');
+
+if (!navigator.bluetooth) {
+  log('⚠️ 이 브라우저는 블루투스를 지원하지 않습니다. 크롬으로 열어주세요.');
+}
+</script>
+
+</body>
+</html>
