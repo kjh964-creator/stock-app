@@ -40,6 +40,9 @@ const char* ssid = "KT_GiGA_C991";
 const char* pass = "heddbc2183";
 
 // ===== 정적 IP =====
+// 접속이 안 되면 USE_STATIC_IP 을 0 으로 바꿔 올리세요.
+// 공유기가 IP 를 주고, 시리얼에 찍힌 그 IP 로 접속하면 됩니다. (정적 IP 충돌 배제용)
+#define USE_STATIC_IP 1
 IPAddress local_IP(172, 30, 1, 41);
 IPAddress gateway (172, 30, 1, 1);
 IPAddress subnet  (255, 255, 255, 0);
@@ -401,9 +404,15 @@ static void wifiConnect() {
   WiFi.persistent(false);
   WiFi.mode(WIFI_STA);
   WiFi.setSleep(false);              // [5] 절전 끄기 - 스트림 지연/끊김 방지
+#if USE_STATIC_IP
   if (!WiFi.config(local_IP, gateway, subnet, dns1)) {
     Serial.println("[WiFi] 정적 IP 설정 실패 -> DHCP 로 진행");
+  } else {
+    Serial.printf("[WiFi] 정적 IP 사용: %s\n", local_IP.toString().c_str());
   }
+#else
+  Serial.println("[WiFi] DHCP 모드 (공유기가 IP 배정)");
+#endif
   WiFi.setAutoReconnect(true);
   WiFi.begin(ssid, pass);
 
