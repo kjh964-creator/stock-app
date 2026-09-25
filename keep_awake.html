@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="꺼짐방지">
+<meta name="theme-color" content="#101418">
+<title>꺼짐방지</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  body {
+    font-family:'Malgun Gothic',sans-serif;
+    background:#101418; color:#fff;
+    min-height:100vh; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:24px 20px;
+  }
+  h1 { font-size:22px; margin-bottom:6px; }
+  #status {
+    font-size:14px; color:#888; margin-bottom:36px;
+    padding:6px 14px; border-radius:20px; background:#1c2228;
+  }
+  #status.on { color:#4ade80; }
+  #btnToggle {
+    width:220px; height:220px; border-radius:50%;
+    border:none; cursor:pointer;
+    font-size:26px; font-weight:700; color:#fff;
+    background:#2a3139;
+    box-shadow:0 0 0 6px #1c2228;
+    transition:background .2s, box-shadow .2s;
+  }
+  #btnToggle .icon { display:block; font-size:64px; margin-bottom:8px; }
+  #btnToggle.on {
+    background:#1B5E20;
+    box-shadow:0 0 0 6px #2e7d32, 0 0 40px #4ade8055;
+  }
+  #btnToggle:active { transform:scale(0.97); }
+  #log {
+    margin-top:30px; font-size:13px; color:#666;
+    text-align:center; line-height:1.7;
+  }
+  video { position:fixed; width:1px; height:1px; opacity:0; pointer-events:none; }
+</style>
+</head>
+<body>
+
+<h1>☀️ 화면 꺼짐방지</h1>
+<div id="status">꺼짐방지 OFF</div>
+
+<button id="btnToggle"><span class="icon">🌙</span><span id="label">켜기</span></button>
+
+<div id="log">버튼을 누르면 이 화면이 열려 있는 동안<br>폰 화면이 꺼지지 않습니다</div>
+
+<video id="fallbackVideo" muted playsinline loop></video>
+
+<script>
+const $ = id => document.getElementById(id);
+const log = msg => { $('log').innerHTML = msg; };
+
+let wantOn = false;
+let wakeLock = null;
+let fallbackStream = null;
+
+function render() {
+  $('btnToggle').className = wantOn ? 'on' : '';
+  $('btnToggle').querySelector('.icon').textContent = wantOn ? '☀️' : '🌙';
+  $('label').textContent = wantOn ? '끄기' : '켜기';
+  $('status').textContent = wantOn ? '✅ 꺼짐방지 ON' : '꺼짐방지 OFF';
+  $('status').className = wantOn ? 'on' : '';
+}
+
+// 1순위: Screen Wake Lock API (Chrome 84+, Safari 16.4+, HTTPS 필요)
+async function requestWakeLock() {
+  wakeLock = await navigator.wakeLock.request('screen');
+  wakeLock.addEventListener('release', () => { wakeLock = null; });
+}
+
+// 2순위: 소리 없는 영상을 계속 재생해서 화면 유지 (Wake Lock 미지원/HTTP 접속 시)
+async function startFallback() {
+  const canvas = document.createElement('canvas');
+  canvas.width = canvas.height = 2;
+  const ctx = canvas.getContext('2d');
+  fallbackStream = canvas.captureStream(1);
+  // 프레임이 멈추면 일부 브라우저가 재생을 중단하므로 주기적으로 다시 그림
+  fallbackStream._timer = setInterval(() => {
+    ctx.fillStyle = Date.now() % 2000 < 1000 ? '#000' : '#010101';
+    ctx.fillRect(0, 0, 2, 2);
+  }, 500);
+  const video = $('fallbackVideo');
+  video.srcObject = fallbackStream;
+  await video.play();
+}
+
+function stopFallback() {
+  if (!fallbackStream) return;
+  clearInterval(fallbackStream._timer);
+  fallbackStream.getTracks().forEach(t => t.stop());
+  $('fallbackVideo').srcObject = null;
+  fallbackStream = null;
+}
+
+async function enable() {
+  wantOn = true;
+  render();
+  if ('wakeLock' in navigator) {
+    try {
+      await requestWakeLock();
+      log('화면이 꺼지지 않습니다 (' + new Date().toLocaleTimeString('ko-KR') + ')<br>이 화면을 닫거나 다른 앱으로 가면 해제돼요');
+      if (navigator.vibrate) navigator.vibrate(50);
+      return;
+    } catch (e) { /* 보안 연결(HTTPS)이 아니면 실패 → 대체 방식 */ }
+  }
+  try {
+    await startFallback();
+    log('대체 방식으로 화면 유지 중<br>이 화면을 닫거나 다른 앱으로 가면 해제돼요');
+    if (navigator.vibrate) navigator.vibrate(50);
+  } catch (e) {
+    wantOn = false;
+    render();
+    log('⚠️ 이 브라우저에서는 꺼짐방지를 지원하지 않습니다<br>크롬(안드로이드) 또는 사파리(아이폰)로 열어주세요');
+  }
+}
+
+async function disable() {
+  wantOn = false;
+  render();
+  if (wakeLock) { await wakeLock.release(); wakeLock = null; }
+  stopFallback();
+  log('꺼짐방지를 껐습니다<br>평소처럼 화면이 자동으로 꺼집니다');
+}
+
+// 다른 앱에 갔다 돌아오면 브라우저가 잠금을 자동 해제하므로 다시 요청
+document.addEventListener('visibilitychange', async () => {
+  if (!wantOn || document.visibilityState !== 'visible') return;
+  if (fallbackStream) { $('fallbackVideo').play().catch(() => {}); return; }
+  if (!wakeLock) {
+    try { await requestWakeLock(); } catch (e) { /* 다음 탭 때 재시도 */ }
+  }
+});
+
+$('btnToggle').onclick = () => { wantOn ? disable() : enable(); };
+render();
+</script>
+
+</body>
+</html>
